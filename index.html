@@ -506,12 +506,12 @@ function myCountDown(){
     myCountUp = myMainNumLast;                              
   }
   if (myIndex >= xSlide && myMainNumLast == myCountUp){ 
-     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:15px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
      clearInterval(myCounting);             
      clearInterval(myLooper);  
   }
   else {    
-     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:25px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:15px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
   }
 }
 ;
