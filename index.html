@@ -72,7 +72,7 @@ QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educat
   
 
 
-<div id="myStick"  style=" position:sticky; top:30px; display:inline; ">
+<div id="myStick"  style=" position:sticky; top:25px; display:inline; ">
  
  <input type=button value="Start-No-Sound" onclick="{
    mySetup()
@@ -506,12 +506,12 @@ function myCountDown(){
     myCountUp = myMainNumLast;                              
   }
   if (myIndex >= xSlide && myMainNumLast == myCountUp){ 
-     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:15px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
      clearInterval(myCounting);             
      clearInterval(myLooper);  
   }
   else {    
-     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:15px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
   }
 }
 ;
