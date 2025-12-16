@@ -132,7 +132,8 @@ QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educat
    } else {    
      myIndex -= 1; 
      myCountUp += 1;
-     carousel();                                                 
+     //  carousel();   
+     resumeCarousel();
      this.value = 'Pause';  
      if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
          myAudio01.play();
@@ -482,6 +483,19 @@ function carousel() {
   myCountDown();
   myCounting = setInterval(myCountDown, 1000);
   myLooper = setTimeout(carousel, myMainNumLast*1000); 
+}
+
+
+ function resumeCarousel() {
+    // 1. Restart the countdown from the paused myCountUp value
+    myCounting = setInterval(myCountDown, 1000);
+    
+    // 2. Calculate the remaining time for the main carousel loop
+    // myMainNumLast is the total time. myCountUp is the time elapsed.
+    var remainingTime = (myMainNumLast - myCountUp) * 1000;
+    
+    // 3. Set the main timer to advance to the next slide when the remaining time runs out
+    myLooper = setTimeout(carousel, remainingTime);
 }
   
 function myCountDown(){
