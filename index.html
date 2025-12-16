@@ -515,6 +515,31 @@ function myCountDown(){
   }
 }
 ;
+
+ function myNext() {
+    // 1. Get total slide count and convert the string value to an integer
+    var slideCountString = document.getElementById('myCountLinks').value;
+    xSlide = parseInt(slideCountString.trim(), 10);
+    
+    // 2. Get the duration string (e.g., "10, 5, 8") and convert it to an array of integers
+    var durationString = document.getElementById('myCountMax').value;
+    
+    // Split the string by commas, then map each item to an integer
+    myMainNum = durationString.split(',')
+        .map(function(item) {
+            // .trim() removes any extra spaces around the number (e.g., " 10 ")
+            return parseInt(item.trim(), 10);
+        });
+        
+    // 3. Clear the existing main carousel timer to stop the previous loop
+    clearInterval(myLooper);
+    
+    // 4. Start the carousel loop with the new parameters
+    // Note: The carousel() function must handle initializing myIndex and clearing myCounting.
+    carousel();
+}
+
+ /*
 function myNext(){   
   xSlide  = document.getElementById('myCountLinks').value; 
   myMainNum = document.getElementById('myCountMax').value;                        
@@ -522,6 +547,10 @@ function myNext(){
   carousel();  
 }  
 ;
+ */
+
+
+ 
 </script> 
  
  
