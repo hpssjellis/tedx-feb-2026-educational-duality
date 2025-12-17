@@ -1,0 +1,533 @@
+<h1>TedX Feb 13tn, 2026 Educational Duality</h1>
+
+
+This demo at <a href="https://hpssjellis.github.io/tedx-feb-2026-educational-duality/index.html#top">hpssjellis.github.io/tedx-feb-2026-educational-duality/index.htm</a><br><br>
+
+
+The Github Repository is at <a href="https://github.com/hpssjellis/tedx-feb-2026-educational-duality/tree/main">https://github.com/hpssjellis/tedx-feb-2026-educational-duality/tree/main</a><br><br>
+
+
+Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >. List of seconds per slide: <input type="text" id="myCountMax" size="30" value="45,45" >   Can be a list of seconds example: 17, 20, 24, 20 The last number continues.
+ <br><br>
+ 
+
+Choose the language: <div id="google_translate_element"></div>
+
+<script type="text/javascript">
+document.myVoiceVar = 7 
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script><br>
+
+Then choose the Speaker: <Select id="mySelect01" onchange="{
+  document.getElementById('myVoiceNum').value =  this.value
+  document.getElementById('myNumberSpeak').click()
+}"></select><br>
+
+<div id="myDiv01">...</div>
+Voice number: <input id="myVoiceNum" type=number  style="width: 5em" value=3> 
+<input id="myNumberSpeak" type="button" value="Speak!" onclick="{  
+    let myV = responsiveVoice.getVoices()[document.getElementById('myVoiceNum').value].name
+    document.getElementById('myDiv01').innerHTML =  myV
+    responsiveVoice.speak(document.getElementById('myMain').innerText, myV, {pitch: 1, rate: 1, volume : 1});   
+}"> 
+
+
+
+
+
+
+<br><br>
+
+
+
+ 
+ 
+<h2>This section readers have programmed autoscroll </h2> 
+ 
+ <input type=button value="Mr. Ellis Reading in English" onclick="{ 
+   document.getElementById('myCountMax').value = '18,23,25,18,16,18,32,14,33,16,25,43,30,51,10';  
+   mySetup();                                             
+   myAudio01 = new Audio('recorded-english.m4a');
+   myAudio01.play(); 
+   carousel();                                                
+}">
+
+ <input type=button value="Not Set" onclick="{ 
+   document.getElementById('myCountMax').value = '23,23,33,22,36,22,45,21,44,20,26,51,40,74,97';  
+   mySetup();                                             
+   myAudio01 = new Audio('not-set.mp3');
+   myAudio01.play(); 
+   carousel();                                                
+}">
+
+<br>
+QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educational-duality/index.html#top">website</a> <br>
+<img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/0aba3a75-e00f-42ac-a935-db2fa876bec3" />
+<br><br><br>
+ 
+<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
+
+  
+
+
+<div id="myStick"  style=" position:sticky; top:25px; display:inline; ">
+ 
+ <input type=button value="Start-No-Sound" onclick="{
+   mySetup()
+   carousel();  
+}">
+ 
+ 
+ 
+  <input type=button value="Rewind" onclick="{
+   myIndex = 0;  
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+      } else {
+         myAudio01.pause();
+     }
+}">   
+
+ <input type=button value="-" onclick="{
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   myIndex -= 1;    
+   window.location.href='#'+myIndex;
+}">   
+  
+<input type=button value="+" onclick="{
+  clearInterval(myLooper);
+  clearInterval(myCounting);
+  myIndex += 1;  
+  window.location.href='#'+myIndex;
+}"> 
+  
+<input type=button value="Back" onclick="{
+   myIndex = myIndex - 2;    
+   if (myIndex <= 0){myIndex=0};                                      
+   myNext();
+}">   
+  
+<input type=button value="Next" onclick="{
+   myNext();
+}"> 
+ 
+    
+  
+ <input id="myPause" type=button value="Pause" onclick="{ 
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   if (this.value == 'Pause'){                                                     
+       this.value = 'Play / Pause'; 
+       if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+      } else {
+         myAudio01.pause();
+     }
+   } else {    
+    // myIndex -= 1; 
+    // myCountUp += 1;
+     //  carousel();   
+     resumeCarousel();
+     this.value = 'Pause';  
+     if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+         myAudio01.play();
+      }                                                    
+   }
+}"> 
+ 
+<input type=button value="Hide" onclick="{
+   document.getElementById('myStick').style.display = 'none';
+}"> 
+  <input type=button value="TOP" onclick="{ 
+   window.location.href='#top'; 
+}">  
+  
+ </div>
+
+
+<div id="myMain">
+
+
+
+<h3><a name="1" href="#1">1</a> </h3>
+<h2>Section 1: The Duality Imperative: Rebuilding Cognitive Foundation in the Age of AI </h2>
+
+<p>SUBTITLE: Training the **Particle** and Auditing the **Wave**</p>
+
+Just as light exists simultaneously as both a discrete Particle and a continuous Wave, modern education must embrace a Duality Imperative. The "Particle" is the discrete, foundational human intelligence—the ability to perform mental math, apply logic, and recall facts without assistance. The "Wave" is the massive, probabilistic flow of AI-generated output. You cannot understand the nature of light by looking at only one form, and you cannot understand modern intelligence by choosing between human basics or machine power. We are at a critical juncture where we must train the Particle to effectively audit the Wave. The goal is no longer mere knowledge acquisition, but the development of Cognitive Resilience. By strengthening the individual Particle of the student’s mind, we ensure they have the "mass" required to observe, measure, and correct the automated Wave, rather than being swept away by its hallucinations.
+
+<i>Quote: "The development of general ability for independent thinking and judgment should always be placed foremost, not the acquisition of special knowledge." — Albert Einstein</i>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="2" href="#2">2</a>  </h3>
+<h2>The 50-Year Mistake: How Calculators Undermined the Brain </h2>
+
+<ul>
+        <li>The Atrophy of Mental Math</li>
+        <li>Tool-Use Replaced Conceptual Understanding</li>
+        <li>The Top-Down Mandate of "Efficiency"</li>
+</ul>
+
+The introduction of the calculator was a stealth attack on our cognitive infrastructure, fueled by a top-down demand to "remove the drudgery" from mathematics. This mandate promised that by outsourcing basic computation to the machine, the human mind would be "freed" for higher-level thinking. However, this was a fundamental misunderstanding of cognitive biology. By removing the "drudgery" of mental math and estimation, we inadvertently removed the neural scaffolding required for logical judgment. This choice undermined the very number sense required to reason about complexity, creating a generational gap where we can no longer "feel" when a machine-generated answer is wrong. We paved the way for a world where humans are bypassed in high-level decision-making because we lost the foundational fluency to audit the process. We must learn from this mistake: when the machine takes the drudgery, it often takes the logic with it.
+
+<i>Quote: "This discovery of yours will create forgetfulness in the learners' souls, because they will not use their memories; they will trust to the external written characters and not remember of themselves." — Plato</i>
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="3" href="#3">3</a>  </h3>
+<h2>The New Crisis: LLM Hallucinations and the "Need for Human Audit"  </h2>
+
+<ul>
+        <li>AI is Probabilistic, Not Precise (It Hallucinates)</li>
+        <li>The Human Auditor is the Safety Net</li>
+        <li>Foundational Skills are the Defense</li>
+</ul>
+
+Unlike previous technologies, the Large Language Model is probabilistic, not deterministic. It operates like a Wave of statistical likelihood, excelling at language but prone to logical hallucinations. This crisis means the accuracy of our systems now depends entirely on the competence of the human auditor. If the human checking the work lacks the "Particle" of foundational knowledge, they have no internal baseline to trigger an "error signal." Foundational skills are no longer optional—they are the only defense against being fundamentally misled. Just as a physicist uses the particle nature of light to measure the wave, a student must use their own discrete logical skills to measure the machine's output. Without this human audit, we are delegating high-level decisions to a machine that can be confidently, and catastrophically, wrong.
+
+<i>Quote: "I learned very early the difference between knowing the name of something and knowing something." — Richard Feynman</i>
+
+<br><br><br><br><br>
+<hr>
+
+<h3><a  name="4" href="#4">4</a>  </h3>
+<h2>The Cognitive Cost: Social Media, Gaming, and the Atrophy of Focus </h2>
+
+<ul>
+        <li>Destruction of Deep Focus</li>
+        <li>Erosion of Mental Health</li>
+        <li>The Shrinking of the AMCC</li>
+</ul>
+
+The challenge is compounded by current screen culture, which weakens students’ capacity for sustained, effortful thought. Constant digital gratification bypasses the Anterior Mid-Cingulate Cortex (AMCC), the "willpower hub" that grows when we do things we don't want to do. By removing friction—the digital equivalent of "removing the drudgery"—modern tech is physically shrinking our neural capacity for persistence. This is the physiological cost of automation: when we stop doing the hard manual work, the brain structures required for "will" begin to atrophy. Effortful labor is not just a "good habit"; it is a biological requirement for a healthy AMCC. We must proactively train persistence and focus as a counter-measure to the dopamine cycle, ensuring that the student has the mental tenacity to engage in the hard work of auditing a machine rather than simply clicking "accept."
+
+<i>Quote: "Excellence is an art won by training and habituation... We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle</i>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="5" href="#5">5</a>  </h3>
+<h2>The Critical Gap: Why We Must Do What the Machine Can Do </h2>
+
+<ul>
+        <li>Estimation is Faster than Recalculation</li>
+        <li>Judgment Over Computation</li>
+        <li>The ACC as the Error-Detection Engine</li>
+</ul>
+
+Mental fluency is not about being faster than the machine; it is about building the neural structures for judgment. The human brain’s ability to use core logic is the quickest way to spot an AI's error. The Anterior Cingulate Cortex (ACC) is the brain's "oh-no" circuit, firing when there is a mismatch between what we expect and what we see. If a student lacks foundational "Particle" knowledge, their ACC won't fire when an AI hallucinates because there is no internal knowledge to create that "mismatch." This is the tragedy of the calculator era: by stopping the manual work, we silenced the brain’s alarm system. We must possess the "Auditor’s Armor"—the ability to do what the machine does—precisely so we can tell when the machine has failed. The human must remain the superior partner in the duality of intelligence.
+
+ <i>Quote: "In the final tolling it often turns out that the facts are more comforting than the fantasy." — Carl Sagan</i>
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="6" href="#6">6</a>  </h3>
+<h2>Section 2: The Duality of Education: Training the Particle and Auditing the Wave </h2>
+
+<ul>
+        <li>Particle: Fluency and Logic (CRAFT)</li>
+        <li>Wave: Prompting and Error Analysis</li>
+        <li>The Synthesis for Resilience</li>
+</ul>
+
+The solution is a deliberate pedagogy that trains both the Particle (CRAFT skills) and the Wave (AI auditing). We must integrate the mastery of foundational concepts with the systematic analysis of complex technology. This synthesis ensures our students are not just users, but masters. Just as light requires both particle and wave theories to be fully understood, education requires both manual fluency and automated competence to be effective. We move away from the "efficiency-only" model of the past fifty years and toward a model of "Resilient Synthesis." We empower students to use the machine for high-level work while maintaining the manual "Particle" skills to ensure that high-level work is actually correct. This is the path to cognitive sovereignty in an automated age.
+
+<i>Quote: "The hands are the instruments of man's intelligence." — Maria Montessori</i>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="7" href="#7">7</a>  </h3>
+<h2>Defining the Non-Negotiable: The CRAFT Baseline </h2>
+
+<ul>
+        <li>CRAFT: Cognitive Reasoning and Fundamental Thinking</li>
+        <li>Baseline: Grade 5 Logic and Fluency</li>
+        <li>The Floor for Safe AI Interaction</li>
+</ul>
+
+We propose defining the CRAFT Baseline—the minimum Grade 5 level of math logic, literacy, and fundamental cognition—required for safe engagement with AI. This is the non-negotiable floor upon which all future learning must be built. If a student has not mastered this "Particle" level of thinking, they cannot safely interact with the automated Wave. They will be unable to see the logical gaps in an LLM’s response, making them vulnerable to misinformation. The CRAFT baseline ensures that before we give a student a machine that can solve problems, they have the internal hardware to understand what a "solved problem" actually looks like. It is the prerequisite for digital agency, ensuring that the human remains the auditor, not the passenger.
+
+<i>Quote: "A being who could not think without training could never be trained to think." — John Dewey</i> 
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="8" href="#8">8</a>  </h3>
+<h2>The Systemic Alignment: The Grade 9 CRAFT Completion Exam </h2>
+
+<ul>
+        <li>The Mandatory Assessment Gatekeeper</li>
+        <li>Validation of Foundational Teacher Work</li>
+        <li>A Metric for Citizenship in the AI Era</li>
+</ul>
+
+We must introduce a Grade 9 CRAFT Exam as a mandatory cognitive assessment. This action validates the foundational work teachers do and creates a clear, high-stakes metric for basic competence. It aligns the school system to prioritize the skills necessary for responsible citizenship in the AI era. This is the audit of the auditors. By testing the Particle strength of every student before they enter the high-stakes environment of senior high school, we ensure that the "50-Year Mistake" of blind tool-reliance ends with this generation. The Grade 9 exam proves that the student has the willpower (AMCC) and the logic (ACC) to navigate a world where machines make high-level decisions.
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="9" href="#9">9</a>  </h3>
+<h2>Rewarding Persistence: The Dual-Track Homework System </h2>
+
+<ul>
+        <li>The Passing Track: Personal Passions (Crafts)</li>
+        <li>The Catch-Up Track: CRAFT Improvement</li>
+        <li>Motivating the Particle</li>
+    </ul> 
+
+The CRAFT Exam enables a revolutionary, motivational homework policy. Students who pass the baseline earn the right to dedicate their homework time to Personal Passions—the "Crafts" part of our Duality. Students who have not yet reached the baseline are placed on the CRAFT Improvement Track. This system rewards manual mastery with creative freedom. It solves the problem of "drudgery" by making it a choice: master the Particle, and you earn the freedom to explore the Wave. This self-regulating system ensures that students are always working at their cognitive edge, either refining their foundations or applying those foundations to the passions that make them uniquely human.
+
+<i>Quote: "The day you stop learning is the day you begin decaying." — Isaac Asimov</i> 
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+<h3><a  name="10" href="#10">10</a>  </h3>
+<h2>The Hour of Focus: Encouraging Family CRAFT² Time </h2>
+
+<ul>
+        <li>Combating Digital Distraction</li>
+        <li>Parental Alignment and Modeling</li>
+        <li>Harnessing Hypnagogia</li>
+</ul>
+
+To support the Duality, we must advocate for cultural change at home. We encourage the One-Hour CRAFT² Time—a dedicated, distraction-free hour for sustained effort. Students and families can spend this hour in a prolonged activity, doing either Cognitive Reasoning and Fundamental Skills or Crafts/Passion assignments of their own. This is where the Particle is tempered through grit. Furthermore, the state just before sleep is the brain’s natural "Audit Mode." Teaching students to "Review the Day" during this transitional state of hypnagogia turns a period of potential anxiety into a session of structured metacognition. By spending one hour a day in effortful, focused labor, families help rebuild the neural tenacity that was lost to the screen.
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="11" href="#11">11</a>  </h3>
+<h2> Section 3 Teacher Action: Identify Your Subject's "Bare Essential Abilities"</h2>
+
+ <ul>
+        <li>Define the 3-5 Audit Skills</li>
+        <li>Prioritization Over Invention</li>
+        <li>The Biology of Tenacity (AMCC)</li>
+    </ul>
+
+Teachers hold the deepest expertise regarding their subject's entry barriers. This action item asks you to engage in a process of Prioritization: identify the 3-5 Core Anchor Abilities most critical for detecting AI errors in your domain. We move away from rigid definitions and toward the Biology of Tenacity. When we engage in "Effortful Cognition"—tasks that require manual persistence—the AMCC grows. This is the seat of willpower. We are not just teaching content; we are physically building the brain structures required for human agency. This collaborative departmental focus ensures that we are drilling the "Particle" skills that give students the power to say "No" to a flawed machine and "Yes" to their own logical conclusions.
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="12" href="#12">12</a>  </h3>
+<h2>The LLM as the Error Generator (Not the Answer Key) </h2>
+
+<ul>
+        <li>Shift from Prohibition to Auditing</li>
+        <li>The New Assignment: Find the Flaw</li>
+        <li>The Human as the Final Filter</li>
+</ul>
+
+We must end the cycle of prohibition and instead use the machine as a tool for cognitive growth. Teachers can use the LLM to generate complex content that is intentionally flawed. The student's assignment becomes the "Flaw Hunt"—finding and correcting the machine’s subtle errors. This makes the human act of verification the highest-value skill in the room. By forcing students to explain *why* an AI is wrong, we deepen their conceptual understanding. This is the Duality in action: using the automated Wave to generate the problem, and the human Particle to solve it. It reframes the student as the final filter, proving that their judgment is the one thing the machine cannot replicate.
+
+<i>Quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it." — Aristotle</i>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="13" href="#13">13</a>  </h3>
+<h2>Duality in the Classroom: Short, Persistent Drills </h2>
+
+<ul>
+        <li>The Daily 5-Minute Fluency Drill</li>
+        <li>Low-Stakes Particle Training</li>
+        <li>Consistency Over Intensity</li>
+</ul>
+
+We integrate the Duality into the daily routine with short Persistent Drills. This low-stakes time is split: a mental fluency exercise on the 'Bare Essentials,' followed immediately by a quick audit of an LLM-generated solution. Consistency, not intensity, rebuilds automaticity. These drills are the "reps" for the AMCC and the ACC. By keeping them daily and short, we ensure the human Particle remains sharp enough to monitor the Wave at all times. This habit of constant auditing becomes second nature, ensuring that students never enter "autopilot mode" when using digital tools. We are training the brain to stay "awake" in the presence of automation.
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a name="14"  href="#14">14</a>   </h3>
+<h2>Fundamental Catch-up Programs and Digital Literacy </h2>
+
+<ul>
+        <li>Addressing the Generational Gap</li>
+        <li>Digital Literacy as Critical Auditing</li>
+        <li>Systemic Support for Logic Gaps</li>
+</ul>
+
+To address the skills gap inherited from the "50-Year Mistake," we advocate for systemic resources like CRAFT-focused catch-up software. We must also reframe digital literacy as the critical validation of AI-generated information. True literacy in the 21st century is the ability to recognize when a probabilistic Wave has deviated from the truth. This requires a baseline of human logic that cannot be bypassed by software. We must provide the support necessary for students to bridge their logic gaps, ensuring they reach the CRAFT Baseline so they can engage with the world as empowered auditors rather than vulnerable consumers.
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+<h3><a  name="15" href="#15">15</a>  </h3>
+<h2>You Are the Curriculum's Ultimate Auditor </h2>
+<ul>
+        <li>Your Judgment is Irreplaceable</li>
+        <li>The Final Safety Net for the Particle</li>
+        <li>Embrace the Essential Mission</li>
+</ul>
+
+The teacher's role has never been more vital. Your expertise in context, logic, and ethical judgment is the Final Safety Net for a society relying on probabilistic machines. By embracing the Duality and advocating for the CRAFT Mandate, you secure the cognitive future of your students. You are the architect of the Particle. You are the one who ensures that when the machine makes a high-level decision, there is a human in the room with the grit and the logic to say "Wait." Your mission is to build minds that can think when the machine fails, ensuring that the light of human intelligence continues to shine through both the Particle and the Wave.
+
+ <i>Quote: "It is not the strongest of the species that survives... It is the one that is the most adaptable to change." — Charles Darwin</i>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+
+ 
+
+
+
+
+ 
+</div>
+<a href="#top">Top of page</a>
+
+<h2>By Jeremy Ellis Twitter <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">Linkedin jeremy-ellis-4237a9bb<a/> Use at your own Risk!</h2>
+<h2>Github Profile:  <a href="https://github.com/hpssjellis">https://github.com/hpssjellis<a/></h2>
+
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+
+
+
+
+  
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+  
+ 
+
+
+
+<script>
+ let myIndex = 1;
+ let myLooper = 0;
+ let myCounting = 0;
+ let myMainNum = '10,10';  
+ let myMainNum2 = '10,10'; 
+ let myMainNumLast = 20;
+ let myCountUp = 0;
+ let xSlide = 3;
+ let myAudio01 = new Audio();
+ document.body.style.backgroundColor = "skyblue";
+ 
+ 
+ let myArray = [1,2,3,13,14,16,18,2223,24,29,30,34,37,39,42,43,49,54,57]
+ let myVoiceObject = responsiveVoice.getVoices()
+ let myTemp = ''
+ for (let myLoop=0; myLoop < 50; myLoop++ ){
+    if ( myArray.includes(myLoop) ) {
+       myTemp += '<option value=\''+myLoop + '\'>' + myLoop + ' : ' + myVoiceObject[myLoop].name + '</option>'
+    }
+ }
+ document.getElementById('mySelect01').innerHTML =  myTemp
+ 
+ 
+
+ 
+function mySetup(){
+   document.getElementById('myStick').style.display = 'none';                                                 
+   xSlide  = document.getElementById('myCountLinks').value; 
+   myMainNum = document.getElementById('myCountMax').value.split(','); 
+   myMainNumLast = myMainNum[0]
+   console.log('myMainNum')
+   console.log(myMainNum)
+   console.log('myIndex, myMainNumLast, myMainNum[myIndex]')
+   myAudio01.pause();
+   myAudio01.currentTime = 0;  
+   myIndex = 0;  
+   clearInterval(myLooper);  
+   myCountUp = -1;
+} 
+ 
+function carousel() {
+  clearInterval(myCounting);
+  myCountUp = -1;
+  var i;
+  myIndex++;
+  if (myIndex > xSlide) {myIndex = xSlide};    
+  window.location.href='#'+myIndex;
+  if (Number.isInteger( parseInt(myMainNum[myIndex-1]) ) ) {
+     myMainNumLast = parseInt(myMainNum[myIndex-1]) 
+  }  
+  console.log(myIndex +', '+ myMainNumLast +', '+  myMainNum[myIndex-1])
+  myCountDown();
+  myCounting = setInterval(myCountDown, 1000);
+  myLooper = setTimeout(carousel, myMainNumLast*1000); 
+}
+
+
+ function resumeCarousel() {
+    // 1. Restart the countdown from the paused myCountUp value
+    myCounting = setInterval(myCountDown, 1000);
+    
+    // 2. Calculate the remaining time for the main carousel loop
+    // myMainNumLast is the total time. myCountUp is the time elapsed.
+    var remainingTime = (myMainNumLast - myCountUp) * 1000;
+    
+    // 3. Set the main timer to advance to the next slide when the remaining time runs out
+    myLooper = setTimeout(carousel, remainingTime);
+}
+  
+function myCountDown(){
+  myCountUp++;
+  if (myCountUp >= myMainNumLast ) {
+    myCountUp = myMainNumLast;                              
+  }
+  if (myIndex >= xSlide && myMainNumLast == myCountUp){ 
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     clearInterval(myCounting);             
+     clearInterval(myLooper);  
+  }
+  else {    
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+  }
+}
+;
+
+ function myNext() {
+    // 1. Get total slide count and convert the string value to an integer
+    var slideCountString = document.getElementById('myCountLinks').value;
+    xSlide = parseInt(slideCountString.trim(), 10);
+    
+    // 2. Get the duration string (e.g., "10, 5, 8") and convert it to an array of integers
+    var durationString = document.getElementById('myCountMax').value;
+    
+    // Split the string by commas, then map each item to an integer
+    myMainNum = durationString.split(',')
+        .map(function(item) {
+            // .trim() removes any extra spaces around the number (e.g., " 10 ")
+            return parseInt(item.trim(), 10);
+        });
+        
+    // 3. Clear the existing main carousel timer to stop the previous loop
+    clearInterval(myLooper);
+    
+    // 4. Start the carousel loop with the new parameters
+    // Note: The carousel() function must handle initializing myIndex and clearing myCounting.
+    carousel();
+}
+
+ /*
+function myNext(){   
+  xSlide  = document.getElementById('myCountLinks').value; 
+  myMainNum = document.getElementById('myCountMax').value;                        
+  clearInterval(myLooper) ; 
+  carousel();  
+}  
+;
+ */
+
+
+ 
+</script> 
+ 
+ 
+
+ 
+ 
