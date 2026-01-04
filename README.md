@@ -12,7 +12,7 @@ Basic Slides
 3. To Do Summary
 4. ME skip
 5. Duality of light lesson light's duality (acting as both wave and particle) is the Double-Slit Experiment, famously performed by Thomas Young
-6. Relevance: Ai is bad AI is good, Rote learning is bad, Higher level thinking is good. Society will passionately argue these while both sides are correct, just like light.
+6. Relevance: AI is bad AI is good, Rote learning is bad, Higher level thinking is good. Society will passionately argue these while both sides are correct, just like light.
 7. Lesson: hypnagogic state
 8. Lesson: AMCC (will Power achieveable from challenging tasks), ACC (regulation of emotionals, cognition, and motion)
 9. Lesson: The brain is a decision making biological actuator, it is not a muscle but the analogy of use it or lose it does apply. Use all of the brain areas or lose the ability to use those brain areas.
