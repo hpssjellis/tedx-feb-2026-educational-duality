@@ -16,7 +16,7 @@ Basic Slides
 7. Lesson: hypnagogic state
 8. Lesson: AMCC (will Power achieveable from challenging tasks), ACC (regulation of emotionals, cognition, and motion)
 9. Lesson: The brain is a decision making biological actuator, it is not a muscle but the analogy of use it or lose it does apply. Use all of the brain areas or lose the ability to use those brain areas.
-10. Controversial: Grade 10's should take an exam of grade 7 numeracy, logic and Comkmunication to determine brain areas to work on for a lifgetime of learning
+10. Controversial: CRAFT Grade 10's should take an exam of grade 7 numeracy, logic and Comkmunication to determine brain areas to work on for a lifgetime of learning
 11. Controversial: Anyone who is in a carrier that makes decisions for others should have to pass the same exam every 3 years.
 12. To Do, at home with or without support
 13. To Do, at school, even if your school bands Cell phones or AI
