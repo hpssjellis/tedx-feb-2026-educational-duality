@@ -1,0 +1,61 @@
+Category,Topic ID,Topic Name,Grade 7 Skill Focus,Resource URL
+LLM Awareness,LLM-01,Predictive Text Mechanics,Understanding that AI predicts the next likely word rather than knowing facts,https://www.google.com/search?q=https://www.technologyreview.com/2020/03/04/905535/predictive-text-machine-learning-explanation/
+LLM Awareness,LLM-02,Hallucination Detection,Identifying when an AI provides a confident but completely fictional answer,https://www.google.com/search?q=https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+LLM Awareness,LLM-03,Source Verification,Cross-referencing AI claims with two independent trusted primary sources,https://www.google.com/search?q=https://www.commonsense.org/education/lesson-plans/digital-citizenship-and-source-verification
+LLM Awareness,LLM-04,The Stochastic Parrot Concept,Recognizing that AI repeats patterns without true conscious understanding,https://www.google.com/search?q=https://www.technologyreview.com/2021/03/01/1020015/google-ai-ethics-timnit-gebru-paper/
+LLM Awareness,LLM-05,Training Data Recency,Checking if an AI’s knowledge cutoff makes its current event data obsolete,https://www.google.com/search?q=https://help.openai.com/en/articles/8555510-gpt-4-knowledge-cutoff
+LLM Awareness,LLM-06,Non-Human Logic,Identifying logic errors where AI follows a pattern but ignores common sense,https://plato.stanford.edu/entries/logic-ai/
+LLM Awareness,LLM-07,Deepfake Recognition,Looking for visual glitches (ears shadows hair) in AI-generated images,https://www.google.com/search?q=https://www.mediawise.org/deepfakelessons/
+LLM Awareness,LL0-08,Chatbot Persona Bias,Identifying if an AI is pretending to be an expert to sound more convincing,https://www.google.com/search?q=https://nonprofit-policy.org/chatbot-persona-bias/
+Numeracy,NUM-01,Statistical Outliers,Using data sets to spot weird results that might indicate biased AI training,https://www.google.com/search?q=https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/identifying-outliers
+Numeracy,NUM-02,Probability vs. Certainty,Calculating the difference between a 90% likely result and a fact,https://www.google.com/search?q=https://www.khanacademy.org/math/probability/probability-geometry
+Numeracy,NUM-03,Data Sample Size,Understanding why an AI trained on only 10 people will be inaccurate for millions,https://www.google.com/search?q=https://vittana.org/15-pros-and-cons-of-sample-size
+Numeracy,NUM-04,Ratio and Proportion,Scaling AI results to see if they make sense in real-world dimensions,https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates
+Numeracy,NUM-05,Percentage Change Literacy,Detecting Fake News that uses misleading percentages to cause alarm,https://www.google.com/search?q=https://magoosh.com/gre/gre-math-percentage-change/
+Numeracy,NUM-06,Mean vs. Median in AI,Understanding how average AI responses can ignore the reality of individuals,https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics
+Numeracy,NUM-07,Pattern Recognition,Identifying the mathematical sequence an AI is using to generate a trend,https://www.mathsisfun.com/numberpatterns.html
+Numeracy,NUM-08,Coordinate Geometry,Understanding how AI maps pixels in a 2D space to create deepfakes,https://www.khanacademy.org/math/geometry/hs-geo-analytic-geometry
+Numeracy,NUM-09,Estimation for Validation,Using mental math to quickly flag if an AI calculation is wildly incorrect,https://www.mathsisfun.com/numbers/estimation.html
+Numeracy,NUM-10,Binary Basics,Understanding the 1s and 0s foundation of all machine learning logic,https://code.org/curriculum/course3/14/Teacher
+Logic,LOG-01,If-Then-Else Flowcharts,Mapping the decision-making path an algorithm takes to reach a result,https://www.lucidchart.com/pages/how-to-make-a-flowchart
+Logic,LOG-02,Causation vs. Correlation,Identifying when an AI wrongly links two events that just happened together,https://www.tylervigen.com/spurious-correlations
+Logic,LOG-03,The Echo Chamber Effect,Recognizing how algorithms show you only what you already agree with,https://www.google.com/search?q=https://www.gcfglobal.org/digital-media-literacy/what-is-an-echo-chamber/1/
+Logic,LOG-04,Algorithmic Bias,Spotting when a rule-set unfairly targets one group based on bad data,https://www.google.com/search?q=https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation/
+Logic,LOG-05,Black Box Problem,Understanding that we don't always know why a complex AI made a choice,https://www.investopedia.com/terms/b/blackbox.asp
+Logic,LOG-06,Logical Fallacies,Detecting circular reasoning in an AI's attempt to prove its own point,https://yourlogicalfallacyis.com/
+Logic,LOG-07,Edge Case Identification,Thinking of scenarios that break an AI's standard set of rules,https://www.google.com/search?q=https://www.techopedia.com/definition/24430/edge-case
+Logic,LOG-08,Sequence Logic,Ordering instructions correctly to get a specific output (Computational Thinking),https://www.google.com/search?q=https://barefootcomputing.org/resources/computational-thinking-guidance
+Logic,LOG-09,Syllogisms,Testing if an AI's conclusion actually follows from its two starting premises,https://www.britannica.com/topic/syllogism
+Logic,LOG-10,Abstraction,Removing unnecessary details to find the core problem an AI needs to solve,https://www.google.com/search?q=https://pcc.edu/staff/snoteboo/abstraction/
+Literacy,LIT-01,Tone Analysis,Distinguishing between a helpful AI tone and a manipulative persuasive tone,https://www.google.com/search?q=https://www.grammarly.com/blog/tone-in-writing/
+Literacy,LIT-02,Fake News Red Flags,Checking for Clickbait grammar and emotional triggers in headlines,https://www.ifla.org/publications/node/11174
+Literacy,LIT-03,Prompt Engineering (Clarity),Writing instructions that are specific and leave no room for ambiguity,https://learnprompting.org/docs/basics/introduction
+Literacy,LIT-04,Context Clues,Identifying when an AI has ignored the setting or situation of a request,https://www.google.com/search?q=https://www.readingrockets.org/article/using-context-clues-understand-meaning
+Literacy,LIT-05,Paraphrase Validation,Checking if an AI-generated summary missed the author's original intent,https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing.html
+Literacy,LIT-06,Bias in Adjectives,Spotting loaded language that pushes a specific political or social agenda,https://www.allsides.com/media-bias/how-to-spot-types-of-media-bias
+Literacy,LIT-07,Active Reading of AI,Annotating AI text to highlight claims that require external proof,https://www.google.com/search?q=https://www.princeton.edu/news/2021/04/21/active-reading-strategies
+Literacy,LIT-08,Author Attribution,Investigating Who wrote this? when the text comes from a generative tool,https://www.google.com/search?q=https://www.Turnitin.com/solutions/ai-writing-detection
+Literacy,LIT-09,Plagiarism vs. Synthesis,Learning the difference between using AI for ideas vs. copying its output,https://plagiarism.org/article/what-is-plagiarism
+Literacy,LIT-10,Rhetorical Devices,Recognizing when an AI uses repetition or analogy to mask a lack of facts,https://literarydevices.net/rhetorical-device/
+Digital Ethics,ETH-01,Privacy and Data Trails,Understanding that everything you tell an AI becomes part of its memory,https://www.eff.org/issues/privacy
+Digital Ethics,ETH-02,Copyright for AI Art,Debating who owns a picture created by a machine,https://www.copyright.gov/ai/
+Digital Ethics,ETH-03,The Human-in-the-Loop,Evaluating why high-stakes decisions (medical/legal) need a human check,https://www.nist.gov/artificial-intelligence
+Digital Ethics,ETH-04,Environmental Impact,Learning about the massive energy and water use of large AI servers,https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/
+Digital Ethics,ETH-05,Digital Citizenship,Using AI tools to help people rather than to bully or trick them,https://www.google.com/search?q=https://www.digcitcommit.org/
+Digital Ethics,ETH-06,Job Displacement Logic,Discussing which human skills (empathy physical trade) AI can't copy,https://www.google.com/search?q=https://www.weforum.org/agenda/2023/05/future-of-jobs-report-2023-ai-automation-labour-market/
+Digital Ethics,ETH-07,Accountability,Determining who is responsible when a self-driving car or bot makes a mistake,https://plato.stanford.edu/entries/ethics-ai/
+Verification,VER-01,Reverse Image Search,Using tools to find the original source of a suspicious AI-looking photo,https://pimeyes.com/en
+Verification,VER-02,URL Inspection,Checking if a news site has a fake domain name (e.g. .co instead of .com),https://www.whois.com/whois/
+Verification,VER-03,Cross-Model Comparison,Asking three different AIs the same question to see where they disagree,https://www.google.com/search?q=https://chat.lmsys.org/
+Verification,VER-04,Fact-Checking Databases,Using sites like Snopes or Politifact to verify AI claims,https://www.snopes.com/
+Verification,VER-05,Metadata Literacy,Learning how to check the hidden info on a file to see when it was made,https://www.metadata2go.com/
+Critical Thinking,CRT-01,Identifying Hidden Agendas,Asking Who benefits if I believe this AI-generated story?,https://www.google.com/search?q=https://www.commonsensemedia.org/news-and-media-literacy
+Critical Thinking,CRT-02,Creative Problem Solving,Using AI to brainstorm 10 ideas then using human logic to pick the best 1,https://www.mindtools.com/pages/article/newCT_00.htm
+Critical Thinking,CRT-03,Empathy vs. Simulation,Recognizing that an AI can sound sad without actually feeling anything,https://www.google.com/search?q=https://www.psychologytoday.com/us/blog/the-future-brain/202302/can-ai-truly-be-empathetic
+Critical Thinking,CRT-04,The Turing Test (Simple),Trying to trap a bot into revealing it isn't human,https://en.wikipedia.org/wiki/Turing_test
+Critical Thinking,CRT-05,Heuristics,Creating rules of thumb to quickly judge the reliability of online info,https://simple.wikipedia.org/wiki/Heuristic
+Critical Thinking,CRT-06,Self-Correction,Admitting when you were tricked by a bot and learning how it happened,https://www.google.com/search?q=https://www.edutopia.org/article/teaching-critical-thinking-students
+Critical Thinking,CRT-07,System Thinking,Understanding how one small AI error can break a much larger human system,https://www.google.com/search?q=https://waterscenterst.org/systems-thinking-tools-and-strategies/
+Critical Thinking,CRT-08,Interdisciplinary Links,Seeing how math art and language all crash together in one AI prompt,https://www.steamedu.com/
+Critical Thinking,CRT-09,The Value of Boredom,Understanding why human daydreaming leads to original ideas AI can't have,https://www.google.com/search?q=https://www.wired.com/story/why-boredom-is-good-for-you/
+Critical Thinking,CRT-10,Final Verification Loop,The 3-step check: Is it logical? Is it sourced? Does it feel right?,https://checkology.org/
