@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 7 Educational API Explorer</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; }
+        #myDiv1 { 
+            background: #f4f4f4; 
+            padding: 15px; 
+            border-radius: 8px; 
+            border: 1px solid #ccc; 
+            overflow-x: auto;
+            margin-top: 20px;
+        }
+        select { padding: 10px; width: 100%; max-width: 500px; border-radius: 5px; }
+        pre { white-space: pre-wrap; word-wrap: break-word; }
+        .placeholder-img { margin-top: 15px; border: 2px solid #ddd; display: block; }
+    </style>
+</head>
+<body>
+
+    <h1 align="center">Grade 7 Assessment API Explorer</h1>
+    <p align="center">Select a resource to fetch Grade 7 Numeracy, Logic, or Language data.</p>
+
+    <div align="center">
+        <select id="mySelect" size="1" onchange="fetchData(this.value)">
+            <option value="">-- Choose a Grade 7 Resource --</option>
+            <!-- Numeracy & Math -->
+            <option value="https://www.khanacademy.org/api/v1/topic/7th-grade-illustrative-math">Khan Academy: Grade 7 Math (Full Curriculum)</option>
+            <option value="https://www.khanacademy.org/api/v1/topic/rational-number-arithmetic">Numeracy: Rational Number Arithmetic (Grade 7)</option>
+            <option value="https://www.khanacademy.org/api/v1/topic/proportional-relationships">Numeracy: Proportional Relationships (Grade 7)</option>
+            
+            <!-- Logic & Problem Solving -->
+            <option value="https://api.wolframalpha.com/v1/result?appid=DEMO&i=7th+grade+math+logic+puzzle">WolframAlpha: Logic Puzzle Sample (Demo)</option>
+            <option value="https://www.khanacademy.org/api/v1/topic/expressions-equations-inequalities">Logic: Equations & Inequalities (Grade 7)</option>
+            
+            <!-- Language & Literacy -->
+            <option value="https://www.khanacademy.org/api/v1/topic/7th-grade-reading-and-vocabulary">Language: Reading & Vocab (Full Course)</option>
+            <option value="https://www.khanacademy.org/api/v1/topic/uncovering-meaning">Language: Context Clues & Author's Purpose</option>
+            
+            <!-- Open Educational Data / Testing Samples -->
+            <option value="https://www.khanacademy.org/api/v1/exercises/multi-step-equations-with-rational-numbers">Testing: Multi-step Equations Exercise Data</option>
+            <option value="https://www.khanacademy.org/api/v1/exercises/rates-with-fractions">Testing: Rates & Ratios Exercise Data</option>
+            <option value="https://www.khanacademy.org/api/v1/exercises/interpreting-words-in-context">Testing: Vocabulary in Context Exercise Data</option>
+        </select>
+    </div>
+
+    <div id="myDiv1">Select an option above to see the JSON response...</div>
+
+    <script>
+        async function fetchData(url) {
+            if (!url) return;
+            
+            const displayDiv = document.getElementById('myDiv1');
+            displayDiv.innerHTML = "<em>Loading data from API...</em>";
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("Network response was not ok");
+                
+                const data = await response.json();
+                console.log(data);
+
+                const myJson = JSON.stringify(data, null, 2);
+                
+                // Content display
+                displayDiv.innerHTML = `<h3>Data Results:</h3><pre>${myJson}</pre>`;
+
+                // Check if the API returned an image or if we should show a relevant educational placeholder
+                const imageUrl = data.image || data.thumbnail_url || data.icon_src || "";
+                if (imageUrl) {
+                    displayDiv.innerHTML += `<img src="${imageUrl}" alt="API Visual" class="placeholder-img" style="max-width: 100%; height: auto;">`;
+                } else {
+                    // Fallback to a generic educational icon if no image is provided by the API
+                    displayDiv.innerHTML += `<p><small>Note: This API returned text data only.</small></p>`;
+                }
+            } catch (error) {
+                displayDiv.innerHTML = `<p style="color:red;">Error: ${error.message}. <br><small>Some APIs may require specific headers or keys not available in this simple fetch.</small></p>`;
+            }
+        }
+    </script>
+</body>
+</html>
