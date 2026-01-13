@@ -1,61 +1,61 @@
 Category,Topic ID,Topic Name,Grade 7 Skill Focus
 LLM Awareness,LLM-01,Predictive Text Mechanics,Understanding that AI predicts the next likely word rather than knowing facts.
 LLM Awareness,LLM-02,Hallucination Detection,Identifying when an AI provides a confident but completely fictional answer.
-LLM Awareness,LLM-03,Source Verification,Cross-referencing AI claims with two independent, trusted primary sources.
-LLM Awareness,LLM-04,The "Stochastic Parrot" Concept,Recognizing that AI repeats patterns without true conscious understanding.
-LLM Awareness,LLM-05,Training Data Recency,Checking if an AI’s "knowledge cutoff" makes its current event data obsolete.
+LLM Awareness,LLM-03,Source Verification,Cross-referencing AI claims with two independent trusted primary sources.
+LLM Awareness,LLM-04,The Stochastic Parrot Concept,Recognizing that AI repeats patterns without true conscious understanding.
+LLM Awareness,LLM-05,Training Data Recency,Checking if an AI’s knowledge cutoff makes its current event data obsolete.
 LLM Awareness,LLM-06,Non-Human Logic,Identifying logic errors where AI follows a pattern but ignores common sense.
-LLM Awareness,LLM-07,Deepfake Recognition,Looking for visual "glitches" (ears, shadows, hair) in AI-generated images.
-LLM Awareness,LL0-08,Chatbot Persona Bias,Identifying if an AI is "pretending" to be an expert to sound more convincing.
-Numeracy,NUM-01,Statistical Outliers,Using data sets to spot "weird" results that might indicate biased AI training.
-Numeracy,NUM-02,Probability vs. Certainty,Calculating the difference between a "90% likely" result and a fact.
+LLM Awareness,LLM-07,Deepfake Recognition,Looking for visual glitches (ears shadows hair) in AI-generated images.
+LLM Awareness,LL0-08,Chatbot Persona Bias,Identifying if an AI is pretending to be an expert to sound more convincing.
+Numeracy,NUM-01,Statistical Outliers,Using data sets to spot weird results that might indicate biased AI training.
+Numeracy,NUM-02,Probability vs. Certainty,Calculating the difference between a 90% likely result and a fact.
 Numeracy,NUM-03,Data Sample Size,Understanding why an AI trained on only 10 people will be inaccurate for millions.
 Numeracy,NUM-04,Ratio and Proportion,Scaling AI results to see if they make sense in real-world dimensions.
-Numeracy,NUM-05,Percentage Change Literacy,Detecting "Fake News" that uses misleading percentages to cause alarm.
-Numeracy,NUM-06,Mean vs. Median in AI,Understanding how "average" AI responses can ignore the reality of individuals.
+Numeracy,NUM-05,Percentage Change Literacy,Detecting Fake News that uses misleading percentages to cause alarm.
+Numeracy,NUM-06,Mean vs. Median in AI,Understanding how average AI responses can ignore the reality of individuals.
 Numeracy,NUM-07,Pattern Recognition,Identifying the mathematical sequence an AI is using to generate a trend.
-Numeracy,NUM-08,Coordinate Geometry,Understanding how AI "maps" pixels in a 2D space to create deepfakes.
-Numeracy,NUM-09,Estimation for Validation,Using "mental math" to quickly flag if an AI calculation is wildly incorrect.
+Numeracy,NUM-08,Coordinate Geometry,Understanding how AI maps pixels in a 2D space to create deepfakes.
+Numeracy,NUM-09,Estimation for Validation,Using mental math to quickly flag if an AI calculation is wildly incorrect.
 Numeracy,NUM-10,Binary Basics,Understanding the 1s and 0s foundation of all machine learning logic.
 Logic,LOG-01,If-Then-Else Flowcharts,Mapping the decision-making path an algorithm takes to reach a result.
 Logic,LOG-02,Causation vs. Correlation,Identifying when an AI wrongly links two events that just happened together.
 Logic,LOG-03,The Echo Chamber Effect,Recognizing how algorithms show you only what you already agree with.
 Logic,LOG-04,Algorithmic Bias,Spotting when a rule-set unfairly targets one group based on bad data.
 Logic,LOG-05,Black Box Problem,Understanding that we don't always know why a complex AI made a choice.
-Logic,LOG-06,Logical Fallacies,Detecting "circular reasoning" in an AI's attempt to prove its own point.
-Logic,LOG-07,Edge Case Identification,Thinking of scenarios that "break" an AI's standard set of rules.
+Logic,LOG-06,Logical Fallacies,Detecting circular reasoning in an AI's attempt to prove its own point.
+Logic,LOG-07,Edge Case Identification,Thinking of scenarios that break an AI's standard set of rules.
 Logic,LOG-08,Sequence Logic,Ordering instructions correctly to get a specific output (Computational Thinking).
 Logic,LOG-09,Syllogisms,Testing if an AI's conclusion actually follows from its two starting premises.
 Logic,LOG-10,Abstraction,Removing unnecessary details to find the core problem an AI needs to solve.
 Literacy,LIT-01,Tone Analysis,Distinguishing between a helpful AI tone and a manipulative persuasive tone.
-Literacy,LIT-02,Fake News Red Flags,Checking for "Clickbait" grammar and emotional triggers in headlines.
+Literacy,LIT-02,Fake News Red Flags,Checking for Clickbait grammar and emotional triggers in headlines.
 Literacy,LIT-03,Prompt Engineering (Clarity),Writing instructions that are specific and leave no room for ambiguity.
-Literacy,LIT-04,Context Clues,Identifying when an AI has ignored the "setting" or "situation" of a request.
+Literacy,LIT-04,Context Clues,Identifying when an AI has ignored the setting or situation of a request.
 Literacy,LIT-05,Paraphrase Validation,Checking if an AI-generated summary missed the author's original intent.
 Literacy,LIT-06,Bias in Adjectives,Spotting loaded language that pushes a specific political or social agenda.
 Literacy,LIT-07,Active Reading of AI,Annotating AI text to highlight claims that require external proof.
-Literacy,LIT-08,Author Attribution,Investigating "Who wrote this?" when the text comes from a generative tool.
+Literacy,LIT-08,Author Attribution,Investigating Who wrote this? when the text comes from a generative tool.
 Literacy,LIT-09,Plagiarism vs. Synthesis,Learning the difference between using AI for ideas vs. copying its output.
-Literacy,LIT-10,Rhetorical Devices,Recognizing when an AI uses "repetition" or "analogy" to mask a lack of facts.
+Literacy,LIT-10,Rhetorical Devices,Recognizing when an AI uses repetition or analogy to mask a lack of facts.
 Digital Ethics,ETH-01,Privacy and Data Trails,Understanding that everything you tell an AI becomes part of its memory.
-Digital Ethics,ETH-02,Copyright for AI Art,Debating who "owns" a picture created by a machine.
-Digital Ethics,ETH-03,The "Human-in-the-Loop",Evaluating why high-stakes decisions (medical/legal) need a human check.
+Digital Ethics,ETH-02,Copyright for AI Art,Debating who owns a picture created by a machine.
+Digital Ethics,ETH-03,The Human-in-the-Loop,Evaluating why high-stakes decisions (medical/legal) need a human check.
 Digital Ethics,ETH-04,Environmental Impact,Learning about the massive energy and water use of large AI servers.
 Digital Ethics,ETH-05,Digital Citizenship,Using AI tools to help people rather than to bully or trick them.
-Digital Ethics,ETH-06,Job Displacement Logic,Discussing which human skills (empathy, physical trade) AI can't copy.
+Digital Ethics,ETH-06,Job Displacement Logic,Discussing which human skills (empathy physical trade) AI can't copy.
 Digital Ethics,ETH-07,Accountability,Determining who is responsible when a self-driving car or bot makes a mistake.
 Verification,VER-01,Reverse Image Search,Using tools to find the original source of a suspicious AI-looking photo.
-Verification,VER-02,URL Inspection,Checking if a "news" site has a fake domain name (e.g., .co instead of .com).
+Verification,VER-02,URL Inspection,Checking if a news site has a fake domain name (e.g. .co instead of .com).
 Verification,VER-03,Cross-Model Comparison,Asking three different AIs the same question to see where they disagree.
 Verification,VER-04,Fact-Checking Databases,Using sites like Snopes or Politifact to verify AI claims.
-Verification,VER-05,Metadata Literacy,Learning how to check the "hidden info" on a file to see when it was made.
-Critical Thinking,CRT-01,Identifying Hidden Agendas,Asking "Who benefits if I believe this AI-generated story?"
-CRT-02,Creative Problem Solving,Using AI to brainstorm 10 ideas, then using human logic to pick the best 1.
-CRT-03,Empathy vs. Simulation,Recognizing that an AI can "sound" sad without actually feeling anything.
-CRT-04,The Turing Test (Simple),Trying to "trap" a bot into revealing it isn't human.
-CRT-05,Heuristics,Creating "rules of thumb" to quickly judge the reliability of online info.
-CRT-06,Self-Correction,Admitting when you were tricked by a bot and learning how it happened.
-CRT-07,System Thinking,Understanding how one small AI error can break a much larger human system.
-CRT-08,Interdisciplinary Links,Seeing how math, art, and language all crash together in one AI prompt.
-CRT-09,The Value of Boredom,Understanding why human "daydreaming" leads to original ideas AI can't have.
-CRT-10,Final Verification Loop,The 3-step check: "Is it logical? Is it sourced? Does it feel right?"
+Verification,VER-05,Metadata Literacy,Learning how to check the hidden info on a file to see when it was made.
+Critical Thinking,CRT-01,Identifying Hidden Agendas,Asking Who benefits if I believe this AI-generated story?
+Critical Thinking,CRT-02,Creative Problem Solving,Using AI to brainstorm 10 ideas then using human logic to pick the best 1.
+Critical Thinking,CRT-03,Empathy vs. Simulation,Recognizing that an AI can sound sad without actually feeling anything.
+Critical Thinking,CRT-04,The Turing Test (Simple),Trying to trap a bot into revealing it isn't human.
+Critical Thinking,CRT-05,Heuristics,Creating rules of thumb to quickly judge the reliability of online info.
+Critical Thinking,CRT-06,Self-Correction,Admitting when you were tricked by a bot and learning how it happened.
+Critical Thinking,CRT-07,System Thinking,Understanding how one small AI error can break a much larger human system.
+Critical Thinking,CRT-08,Interdisciplinary Links,Seeing how math art and language all crash together in one AI prompt.
+Critical Thinking,CRT-09,The Value of Boredom,Understanding why human daydreaming leads to original ideas AI can't have.
+Critical Thinking,CRT-10,Final Verification Loop,The 3-step check: Is it logical? Is it sourced? Does it feel right?
