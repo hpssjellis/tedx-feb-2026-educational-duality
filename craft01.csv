@@ -1,5 +1,5 @@
 Category,Topic ID,Topic Name,Grade 7 Skill Focus
-LLM Awareness,LLM-01,Predictive Text Mechanics,Understanding that AI predicts the "next likely word" rather than "knowing" facts.
+LLM Awareness,LLM-01,Predictive Text Mechanics,Understanding that AI predicts the next likely word rather than knowing facts.
 LLM Awareness,LLM-02,Hallucination Detection,Identifying when an AI provides a confident but completely fictional answer.
 LLM Awareness,LLM-03,Source Verification,Cross-referencing AI claims with two independent, trusted primary sources.
 LLM Awareness,LLM-04,The "Stochastic Parrot" Concept,Recognizing that AI repeats patterns without true conscious understanding.
