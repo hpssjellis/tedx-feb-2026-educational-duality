@@ -7,7 +7,7 @@
 3. Duality of Light and how that effects education and the people involved. Some complex issues are both black and white and a gray compromise is the worst solution. Think LLM's (ChatGPT)
 4. Your cell phone is the most powerful learning device ever created, also the most non-chemical mass addicting machine on the planet, by computer Engineering design!
 5. 50 years ago there was not a health food craze since people ate healthy if they could afford it
-6. x years ago there wasn't a fitness craze because people walked or biked everywhere unless they really needed to go a long distance
+6. x years ago there wasn't a fitness craze (30 stairs, 10000 steps, train for a marathon) because people walked or biked everywhere unless they really needed to go a long distance
 7. We are moving to a need for a cognitive craze because LLM's make it so people don't have to think
 8. The brain is equivalent to a muscle, use it or lose it.
 9. We know technology kills are ability to think: Math with a calculator, 7 - 10 digit numbers or speed dial, Street names and a internal map of your city, GPS
