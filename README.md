@@ -41,6 +41,13 @@ Basic Slides
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/625b9fa6-42d7-4961-b530-5284f0f22ee0" />
 
 .
+
+## Machines doing things for people
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d77af1c-bff9-4f0c-aa46-36deabdbdf43" />
+
+
+
 .
 .
 .
