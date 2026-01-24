@@ -35,6 +35,11 @@ Basic Slides
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab8af646-e80f-4a23-9d0b-bd7f0864cd31" />
 
 
+
+## AMCC and ACC
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/625b9fa6-42d7-4961-b530-5284f0f22ee0" />
+
 .
 .
 .
