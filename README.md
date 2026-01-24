@@ -25,8 +25,25 @@ Basic Slides
 
 
 
+## Basics allow advanced thought
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/30c819ac-1b78-40cb-9a31-9d27c769860d" />
+
+
+## hypnagogia state consolidatees memorys and allows creative problem solving of the days issues
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab8af646-e80f-4a23-9d0b-bd7f0864cd31" />
+
+
+.
+.
+.
+.
+.
+.
+old
+
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5e8bec0-53c8-40c2-9ad0-58f54a25f8d1" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/30c819ac-1b78-40cb-9a31-9d27c769860d" />
 
