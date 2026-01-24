@@ -7,3 +7,8 @@ A highly detailed, hand-drawn isometric doodle diagram of three students trying 
 
 A highly detailed, hand-drawn isometric doodle diagram in bright colors of the hypnagogia state where a sleeping person goes over things in their mind in preparation for long term memory and creative problem solving. Style is pencil sketch with clean ink outlines on a light paper background. Use a professional cartoonish aesthetic similar to whiteboard animations. Include labels, arrows showing flow, and small detailed vignettes. Minimalist accent colors, high contrast, educational presentation style.
 
+
+
+## AMCC ACC 
+
+A highly detailed, hand-drawn isometric doodle diagram in bright colors of the amcc for will power to do something new and the acc for activity monitoring and regulation all in a thought diagram with students on cell phones or being active. Style is pencil sketch with clean ink outlines on a light paper background. Use a professional cartoonish aesthetic similar to whiteboard animations. Include labels, arrows showing flow, and small detailed vignettes. Minimalist accent colors, high contrast, educational presentation style.
