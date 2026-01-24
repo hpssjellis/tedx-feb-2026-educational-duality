@@ -12,3 +12,9 @@ A highly detailed, hand-drawn isometric doodle diagram in bright colors of the h
 ## AMCC ACC 
 
 A highly detailed, hand-drawn isometric doodle diagram in bright colors of the amcc for will power to do something new and the acc for activity monitoring and regulation all in a thought diagram with students on cell phones or being active. Style is pencil sketch with clean ink outlines on a light paper background. Use a professional cartoonish aesthetic similar to whiteboard animations. Include labels, arrows showing flow, and small detailed vignettes. Minimalist accent colors, high contrast, educational presentation style.
+
+
+
+## Machines have always done things for people
+
+A highly detailed, hand-drawn isometric doodle diagram in bright colors of machines cars typewriters camera planes GPS trains calculators that do things for people and they forget how to do those things . Style is pencil sketch with clean ink outlines on a light paper background. Use a professional cartoonish aesthetic similar to whiteboard animations. Include labels, arrows showing flow, and small detailed vignettes. Minimalist accent colors, high contrast, educational presentation style.
