@@ -25,6 +25,23 @@ Basic Slides
 
 
 
+## Cloud, Edge, Tiny
+
+<img width="727" height="408" alt="image" src="https://github.com/user-attachments/assets/ec2fed3c-20a1-4738-9adb-547bc04c2ff9" />
+
+
+<img width="727" height="408" alt="image" src="https://github.com/user-attachments/assets/e5d96720-c089-4a94-83cc-7863140194f1" />
+
+
+
+<img width="727" height="408" alt="image" src="https://github.com/user-attachments/assets/b8d8c047-a250-41e9-ad57-fcccb88f6c0d" />
+
+
+
+
+
+
+
 ## Basics allow advanced thought
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/30c819ac-1b78-40cb-9a31-9d27c769860d" />
