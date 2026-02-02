@@ -61,6 +61,19 @@ Basic Slides
 
 
 
+
+
+# Anterior Mid Cingulate Cortex
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d32ec0a7-a805-4313-a7f3-46a6a4694c41" />
+
+
+
+# Anterior Cingulate Cortex
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70df1faf-745a-43e0-abf9-b60cad57689d" />
+
+
 .
 .
 .
