@@ -48,6 +48,19 @@ Basic Slides
 
 
 
+
+# Led or Lead or is it Lead or Led.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/702dc19f-ce7a-436e-ace2-57ca76392523" />
+
+
+
+#  Cloud-LLM's, EdgeAI, Tiny ML
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d9ce86c3-c3eb-46bf-834e-433bd0fbeb2c" />
+
+
+
 .
 .
 .
