@@ -320,3 +320,261 @@ Someone must always be awake in the system.
 
 That is the job.
 
+
+---
+# Draft 3
+---
+
+
+# Why We Must Do What the Machine Can Do  
+### A Live Presentation
+
+---
+
+## Opening (No Slides Yet): Someone Must Be Awake
+
+Let me start with a question.
+
+Would you get on a plane if the cockpit were fully automated —  
+but no one on board knew how to fly?
+
+Not as a backup.  
+Not in an emergency.  
+Not even to notice when something feels wrong.
+
+That is the moment we are living in with AI.
+
+The systems are powerful.  
+The automation is impressive.  
+But the safety of the entire flight still depends on whether a human can recognize when the machine is drifting off course.
+
+Education is not about fighting technology.  
+It is about making sure someone is awake in the cockpit.
+
+---
+
+## The Core Claim
+
+If we do not maintain the internal hardware of thinking —  
+calculation, logic, estimation, persistence —
+
+then we are not using machines as tools.  
+We are deferring judgment to them.
+
+This is not about productivity.  
+It is about human agency.
+
+---
+
+## The Physiology of Judgment: ACC and AMCC
+
+Inside the brain are two systems that matter deeply in the age of AI.
+
+### The Anterior Cingulate Cortex (ACC)  
+The monitoring system.  
+It detects mismatch — the feeling that something is off.
+
+### The Anterior Mid-Cingulate Cortex (AMCC)  
+The seat of willpower.  
+It grows when we do difficult things we would rather avoid.
+
+When students repeatedly choose frictionless answers over effortful thinking, these systems weaken.
+
+Convenience does not just save time.  
+It quietly removes the brain structures required to say,  
+“Wait — that doesn’t make sense.”
+
+---
+
+## The New Problem: AI Hallucinations
+
+Modern AI systems are not precise machines.  
+They are probabilistic systems.
+
+They produce fluent answers — not verified truth.
+
+Correctness now depends on the human audit.
+
+If the human checking the work lacks foundational skills,  
+there is no internal baseline to trigger an error signal.
+
+No baseline.  
+No alarm.  
+No correction.
+
+---
+
+## The 50-Year Lesson We Forgot
+
+We already ran this experiment once.
+
+When calculators replaced mental math,  
+we removed more than arithmetic.
+
+We removed number sense.  
+We removed estimation.  
+We removed the ability to feel when an answer is wrong.
+
+Efficiency replaced judgment.
+
+AI is repeating this pattern — faster, wider, and earlier.
+
+---
+
+## A Hard Truth — and a Hopeful One
+
+Right now, a small group of students are thriving with technology.
+
+They are building real systems.  
+Learning faster.  
+Thinking deeper.
+
+But they all share the same quiet advantage:
+
+They already have strong foundations.
+
+AI did not make them capable.  
+It rewarded capability that already existed.
+
+The real risk is not that AI replaces students.
+
+The real risk is that it amplifies inequality —  
+accelerating those with cognitive foundations  
+and leaving everyone else dependent.
+
+This is not a talent problem.  
+It is an infrastructure problem.
+
+---
+
+## Why Foundational Skills Are Protective
+
+Foundational skills are not about speed.
+
+They are about judgment.
+
+If a student can estimate, they can challenge results.  
+If they can reason, they can detect contradictions.  
+If they can persist, they can resist automation bias.
+
+We learn to do what the machine can do  
+not to compete with it —  
+but to know when it has failed.
+
+---
+
+## The Role of Education Has Changed
+
+Education is no longer primarily about delivering answers.
+
+Answers are abundant.
+
+Education is now about training students to:
+
+- Detect error  
+- Resist false confidence  
+- Verify claims  
+- Endure cognitive discomfort  
+
+These are biological skills, not software features.
+
+---
+
+## Hypnagogia: The Human Advantage Machines Do Not Have
+
+Just before sleep, the brain enters a transitional state — hypnagogia.
+
+This is when the brain reviews, connects, and consolidates.
+
+But this process only works if the mind is stocked with real, grounded knowledge.
+
+Without foundations, this state produces fantasy.  
+With foundations, it produces insight.
+
+No machine can replace this process.  
+But it only works if we give the brain something worth processing.
+
+---
+
+# **NEW SECTION**  
+## A Concrete Practice: LED / LEAD Time  
+### A 10–20 Minute Daily Routine That Builds Cognitive Infrastructure
+
+Parents and teachers often ask:  
+“What can we *actually* do to strengthen these systems?”
+
+Here is one practice that works — simple, scalable, and powerful.
+
+### **LED / LEAD Time**  
+A short, structured block where students either:
+
+### **LED (Teacher-Led Practice)**  
+Students complete a foundational task such as:  
+- A handwritten worksheet  
+- A short quiz  
+- A targeted skill drill  
+- A retrieval practice sheet  
+- A reasoning or estimation challenge  
+
+This is not busywork.  
+It is friction — the good kind — the kind that strengthens ACC and AMCC.
+
+### **LEAD (Student-Led Learning)**  
+If a student can *demonstrate* mastery of the foundational skill,  
+they earn the same 10–20 minutes to **lead their own learning** using technology.
+
+They might:  
+- Explore a related topic  
+- Build something with AI as an assistant  
+- Research a question  
+- Create a small project  
+- Extend the concept beyond the worksheet  
+
+The teacher remains active — circulating, coaching, redirecting —  
+but the room naturally differentiates itself.
+
+### Why This Works
+
+- Students who need foundations get them.  
+- Students who are ready to extend can extend.  
+- The class tone improves because everyone is working at their level.  
+- The teacher gets real-time data on who is drifting and who is ready.  
+- Difficulty can be raised or lowered based on how many students reach LEAD time.  
+
+This is not a reward system.  
+It is a **calibration system** — a way to keep every student awake in the cockpit.
+
+### What Parents Can Do at Home
+
+A home version is simple:
+
+1. **LED:**  
+   5–10 minutes of effortful practice (math facts, handwriting, reading aloud, logic puzzles).
+
+2. **LEAD:**  
+   If the child shows mastery,  
+   they get 5–10 minutes to explore something they care about —  
+   with technology as a tool, not a crutch.
+
+This builds the same cognitive infrastructure,  
+and it fits naturally into bedtime routines, homework time, or weekends.
+
+---
+
+## Closing
+
+The future does not need faster answers.
+
+It needs people who can tell when an answer is wrong.
+
+If students can calculate, they can question.  
+If they can reason, they can verify.  
+If they can persist, they can remain awake.
+
+Education’s responsibility is not to slow technology down.
+
+It is to ensure humans grow strong enough to stand next to it.
+
+Someone must always be awake in the system.
+
+That is the job.
