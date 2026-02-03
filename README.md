@@ -289,12 +289,15 @@ Foundational skills are not about speed.
 
 They are about judgment.
 
-If a student can estimate, they can challenge results.
-If they can reason, they can detect contradictions.
-If they can persist, they can resist automation bias.
+Reasoning & Persistence: If a student can reason, they can detect contradictions. If they can persist, they can resist automation bias.
 
-We learn to do what the machine can do
-not to compete with it —
+Empathetic Depth: If they can empathize, they can identify when a perfectly "logical" output is socially tone-deaf or humanly harmful. They can see the person behind the data point.
+
+Linguistic Nuance: If they possess linguistic precision, they can detect the "uncanny valley" of machine-generated prose—spotting where a lack of soul masks a lack of truth.
+
+Ethical Imagination: If they can contextualize, they can ask not just "Is this answer correct?" but "Is this answer responsible?"
+
+We learn to do what the machine can do not to compete with it
 but to know when it has failed.
 
 ---
@@ -302,7 +305,8 @@ but to know when it has failed.
 ## What We Can Actually Do About It
 
 I want to give you three things you can use.
-One for parents. One for teachers. One for school administrators.
+One for teachers. One for parents.  One for school administrators.
+
 
 ---
 
@@ -313,7 +317,7 @@ One for parents. One for teachers. One for school administrators.
 A handwritten problem. A retrieval quiz. An estimation challenge.
 
 **LEAD** becomes student-led learning time:
-explore a topic, build something with AI, research a question, extend a concept.
+Students who have no problem with the LED assignment can explore a topic, build something with AI, research a question, extend a concept.
 
 The teacher circulates, coaches, and calibrates.
 
@@ -329,15 +333,16 @@ The ratio is your feedback loop.
 ### For Parents: Bedtime Story Time / Connection or Review
 
 Yes parents could do the Led / Lead with the main criteria being x amount of time (Hopefully an hour)
-Of consistent work on a project (lead) or basics (led), but possibly more important 
+of consistent work on a project (lead) or the basics (led), but possibly more important 
 is the old fashioned idea of bedtime stories.
 
 #### Hypnogia State
-Just before going to sleep we fall into an interesting state, where we creatively solve problems, review the day, and decide what to remember.
-children and teengaers typically fall asleep after hours of scrolling.
+Just before going to sleep we fall into an interesting state, where we creatively solve problems, review the day, and our brain 
+decide what is important enough to remember. The time just before going to sleep is important.
+Children and teengaers typically fall asleep after hours of scrolling.
 
 Parents can for younger children realize the importance of storytime, short great stories allow the hypnogia state to ponder deep thoughts. 
-As children get older this time can be more for human connections discussing intersting things from the day, and all students should realize that reviewing class work before sleep is the easiest way to learn. Making sure they actually go to sleep after that interaction is the difficult part.
+As children get older this time can be more for human connections discussing interesting things from the day, and all students should realize that reviewing class work before sleep is the easiest way to learn. Making sure they actually go to sleep after that interaction is the difficult part.
 
 
 
@@ -407,3 +412,7 @@ That is the job.
 ---
 
 *Speaker notes: The neuroscience claims are grounded in peer-reviewed research — ACC error detection (Carter et al., 1998, Science) and aMCC tenacity (Touroutoglou et al., 2020, Cortex). The aMCC "muscle" metaphor is supported by the research but the causal link is strongly suggested, not fully proven — worth being honest about if challenged. The fabricated legal brief example (Mata v. Avianca, 2023) is documented and well-sourced.*
+
+
+Citation:
+Carbone, J., & Diekelmann, S. (2024). An update on recent advances in targeted memory reactivation during sleep. npj Science of Learning, 9, Article 31.  https://faculty.wcas.northwestern.edu/paller/NSY2024.pdf
