@@ -415,4 +415,4 @@ That is the job.
 
 
 Citation:
-Carbone, J., & Diekelmann, S. (2024). An update on recent advances in targeted memory reactivation during sleep. npj Science of Learning, 9, Article 31.  https://faculty.wcas.northwestern.edu/paller/NSY2024.pdf
+Carbone, J., & Diekelmann, S. (2024). An update on recent advances in targeted memory reactivation during sleep. npj Science of Learning, 9, Article 31. https://www.nature.com/articles/s41539-024-00244-8
