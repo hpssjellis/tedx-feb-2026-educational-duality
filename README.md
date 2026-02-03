@@ -1033,7 +1033,7 @@ Here is what I am proposing:
 **A school-wide Grade 10 assessment — not owned by any single subject.**
 
 Not a math test. Not an English test.
-A *skills* test.
+A *skills* test. Taken in the first month of grade 10 and in the last month of grade 10.
 
 It tests the things every subject depends on:
 estimation, logical reasoning, reading comprehension under pressure,
@@ -1043,6 +1043,7 @@ And here is the critical piece:
 
 **Every teacher is responsible for a piece of it.**
 
+The elementary teachers for some of the foundation.
 The math teacher builds estimation and arithmetic.
 The English teacher builds comprehension and argumentation.
 The science teacher builds logical reasoning and evidence evaluation.
