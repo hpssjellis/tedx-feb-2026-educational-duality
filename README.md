@@ -102,3 +102,27 @@ old
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5e8bec0-53c8-40c2-9ad0-58f54a25f8d1" />
 
 
+
+
+
+Title: Why We Must Do What the Machine Can Do
+​Speaker: [An older athlete, standing center stage, moving with the deliberate grace of someone who trains daily. No slides yet—just presence.]
+​The Hook: The Athlete vs. The Algorithm
+​"I’m an athlete. At my age, every mile I run and every weight I lift is a negotiation with gravity. I’m also a specialist in TinyML—the 'brains' inside your doorbell and your watch—and WebAI.
+​People ask me: 'Why do you still train so hard when we have exoskeletons and self-driving cars? Why do we need to learn to code or calculate when the AI in our pockets is a million times faster?'
+​The answer isn't about productivity. It’s about sovereignty. If we don't maintain the 'hardware' of our minds and the 'software' of our skills, we aren't using the machines—the machines are using us."
+​The Physiology of Willpower: ACC vs. AMCC
+​"Let’s talk about the battle inside your brain. We have a region called the Anterior Cingulate Cortex (ACC). It’s your monitoring station. It’s what tells you, 'Hey, you’ve been scrolling for three hours.'
+​But the real hero is the Anterior Mid-Cingulate Cortex (AMCC). This is the seat of willpower. Research shows this area actually grows when we do things we don't want to do. When we choose a difficult problem over a 'quick fix' from an LLM, we are literally building the muscle of our resolve.
+​If we outsource every thought to an AI, our AMCC atrophies. We lose the power to say 'no' to the screen because we’ve stopped exercising the 'no' muscle."
+​The Bedtime Secret: Hypnagogia and Connection
+​"Teachers, parents—you know the 'bedtime battle.' But here is the magic of the human connection: Hypnagogia. It’s that 'half-awake, half-dreaming' state just as you fall asleep.
+​This state is a goldmine for long-term learning. When you tell a bedtime story or review the day’s lessons with a child in that window, you aren't just sharing information; you’re hardwiring it. An LLM can generate a story, but it can’t provide the oxytocin of a human voice. That connection signals to the brain: This information matters. Save this. We need to reclaim the 'review' before sleep, not as a chore, but as a biological hack for deep learning."
+​The Fact-Check: Why Basic Skills are Armor
+​"We’ve all heard of 'Hallucinations'—when an AI confidently tells you that George Washington invented the internet.
+​If our children don't have a foundation of basic facts—math, history, grammar—they have no internal compass. To get 'real' answers from an LLM, you have to be an expert prompter. And to be an expert prompter, you have to know enough to realize when the machine is lying to you.
+​We teach robotics not just to build robots, but to learn problem-solving. In a robotics course, when the motor doesn't turn, you can't 'prompt' it to work. You have to understand the physics. You have to find the 'why.' That grit is what allows you to look at an AI's output and say: 'That’s a hallucination. Let’s dig deeper.'"
+​The Closing: The Ultimate Machine
+​"The machine is a bicycle for the mind, but you still have to know how to balance.
+​Don't let the ease of WebAI make you soft. Build your AMCC by doing the hard things. Use the hypnagogic state to bond and remember. Learn the basics so you can lead the AI, rather than following it into a fog of misinformation.
+​We don't learn these things to compete with the machine. We learn them so we can remain the masters of it."
