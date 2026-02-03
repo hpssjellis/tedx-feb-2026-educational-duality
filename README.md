@@ -770,7 +770,7 @@ It needs people who can tell when an answer is wrong.
 
 If students can calculate, they can question.  
 If they can reason, they can verify.  
-If they can persist, they can remain awake.
+If they can persist, they can remain alert.
 
 Education’s responsibility is not to slow technology down.  
 It is to ensure humans grow strong enough to stand next to it.
@@ -778,3 +778,306 @@ It is to ensure humans grow strong enough to stand next to it.
 Someone must always be awake in the system.
 
 That is the job.
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+# 4th Draft. Claude
+
+
+
+
+# Why We Must Do What the Machine Can Do
+### TEDx Talk — 18–20 Minutes
+
+---
+
+## Opening: Someone Must Be Awake
+
+Let me start with a simple question:
+
+**Would you get on a fully automated plane
+if no one on board knew how to fly?**
+
+Not as a backup.
+Not in an emergency.
+Not even to notice when something feels wrong.
+
+That is the moment we are living in with AI.
+
+The systems are powerful.
+The automation is impressive.
+But the safety of the entire flight still depends on whether a human can recognize when the machine is drifting off course.
+
+Education is not about resisting technology.
+It is about making sure someone is awake in the cockpit.
+
+---
+
+## Why You Should Listen to Me
+
+I have been teaching coding for 35 years.
+Robotics for 10.
+
+I have watched students build extraordinary things —
+apps, robots, systems that genuinely work.
+
+And in the last few years, I have watched something else happen at the same time:
+
+The products are getting better.
+The understanding is getting worse.
+
+I am not guessing about this.
+I am seeing it, every single day, in the classrooms.
+
+That is why I am here.
+
+---
+
+## The Core Claim
+
+If we stop practicing the basic operations of thinking —
+calculation, logic, estimation, persistence —
+we lose the ability to judge the machine.
+
+This is not a productivity issue.
+It is an agency issue.
+
+---
+
+## The Brain Systems at Risk
+
+Two regions of the brain matter deeply in the age of AI.
+
+### The ACC — The Error Detector
+
+The anterior cingulate cortex.
+Research published in *Science* in 1998 confirmed what neurologists had suspected:
+this region activates when the brain detects that something is likely to go wrong.
+
+It is not a conscious alarm.
+It is a quiet signal — a flicker of *"something is off."*
+
+It is the biological foundation of your ability to doubt an answer.
+
+### The aMCC — The Persistence Engine
+
+The anterior mid-cingulate cortex.
+A landmark review in *Cortex* in 2020 showed that this region is a hub
+for tenacity — the ability to push through difficulty.
+
+It grows when we do hard things we would rather avoid.
+It weakens when we consistently choose the path of least resistance.
+
+Here is the part that matters for education:
+
+When students choose frictionless answers over effortful thinking,
+these systems do not just sit idle.
+They atrophy.
+
+Convenience does not just save time.
+It removes the biological hardware required for judgment.
+
+---
+
+## The New Problem: AI Hallucinations
+
+AI systems are not truth machines.
+They are probability machines.
+
+They generate fluent answers — not verified ones.
+
+Here is a real example.
+
+In 2023, a lawyer submitted a legal brief to a federal judge.
+He used ChatGPT to do his research.
+The brief cited six court cases.
+
+Every single one was fabricated.
+The case names, the judges, the holdings — invented.
+Completely convincing. Completely fictional.
+
+A first-year law student with basic training would have caught it.
+The lawyer did not, because he had no baseline to compare against.
+
+No baseline → no alarm → no correction.
+
+That is the pattern.
+And it is about to become the most common pattern in education.
+
+---
+
+## We've Seen This Before
+
+When calculators replaced mental math, we did not just lose arithmetic.
+
+We lost number sense.
+We lost estimation.
+We lost the ability to *feel* when an answer is wrong.
+
+AI is repeating this pattern —
+faster, wider, and earlier.
+
+---
+
+## The Inequality Problem
+
+A small group of students are thriving with technology.
+They build, explore, and accelerate.
+
+But they all share one advantage:
+
+**They already have strong foundations.**
+
+AI did not create capability.
+It amplified it.
+
+The danger is not replacement.
+The danger is divergence.
+
+This is not a talent gap.
+It is an infrastructure gap.
+
+---
+
+## Why Foundations Still Matter
+
+Foundational skills are not about speed.
+
+They are about judgment.
+
+If a student can estimate, they can challenge results.
+If they can reason, they can detect contradictions.
+If they can persist, they can resist automation bias.
+
+We learn to do what the machine can do
+not to compete with it —
+but to know when it has failed.
+
+---
+
+## What We Can Actually Do About It
+
+I want to give you three things you can use.
+One for parents. One for teachers. One for school administrators.
+
+---
+
+### For Parents: The LED / LEAD Method
+
+A 10–20 minute routine that builds cognitive infrastructure.
+
+**LED — Led Practice.**
+A short, effortful task: reading aloud, math facts, a logic puzzle.
+Something that requires the brain to *work.*
+
+**LEAD — Student-Led Learning.**
+If the child demonstrates mastery —
+they earn the same 10–20 minutes to explore something they care about,
+with technology as a tool, not a crutch.
+
+This is not a reward system.
+It is a calibration system.
+It keeps the child awake in the cockpit.
+
+---
+
+### For Teachers: The Same Principle, Scaled
+
+**LED** stays the same — a short, effortful task at the start of class.
+A handwritten problem. A retrieval quiz. An estimation challenge.
+
+**LEAD** becomes student-led learning time:
+explore a topic, build something with AI, research a question, extend a concept.
+
+The teacher circulates, coaches, and calibrates.
+
+Here is how you know if it is working:
+
+If only a few students reach LEAD time, the LED task was too hard.
+If everyone reaches it immediately, it was too easy.
+
+The ratio is your feedback loop.
+
+---
+
+### For Administrators: The Grade 10 Systemic Skills Check
+
+This is the idea I am most excited about —
+and the one that requires the most courage.
+
+Right now, when students fail at basic skills in Grade 10,
+we blame the Grade 10 teacher.
+But the Grade 10 teacher did not create the gap.
+The gap was built — or not filled — over years, by an entire system.
+
+Here is what I am proposing:
+
+**A school-wide Grade 10 assessment — not owned by any single subject.**
+
+Not a math test. Not an English test.
+A *skills* test.
+
+It tests the things every subject depends on:
+estimation, logical reasoning, reading comprehension under pressure,
+basic arithmetic without a calculator, sustained problem-solving.
+
+And here is the critical piece:
+
+**Every teacher is responsible for a piece of it.**
+
+The math teacher builds estimation and arithmetic.
+The English teacher builds comprehension and argumentation.
+The science teacher builds logical reasoning and evidence evaluation.
+The social studies teacher builds research skills and source critique.
+
+No single teacher owns the outcome.
+The school owns it.
+
+This is not about blame.
+It is about shared responsibility for a shared problem.
+
+If we want students who can audit AI —
+if we want people who are awake in the cockpit —
+we need a system that trains that skill across the board,
+and measures it honestly.
+
+---
+
+## Closing
+
+The future does not need faster answers.
+
+It needs people who can tell when an answer is wrong.
+
+If students can calculate, they can question.
+If they can reason, they can verify.
+If they can persist, they can remain alert.
+
+Education's responsibility is not to slow technology down.
+It is to ensure humans grow strong enough to stand next to it.
+
+Someone must always be awake in the system.
+
+That is the job.
+
+---
+
+*Speaker notes: The neuroscience claims are grounded in peer-reviewed research — ACC error detection (Carter et al., 1998, Science) and aMCC tenacity (Touroutoglou et al., 2020, Cortex). The aMCC "muscle" metaphor is supported by the research but the causal link is strongly suggested, not fully proven — worth being honest about if challenged. The fabricated legal brief example (Mata v. Avianca, 2023) is documented and well-sourced.*
