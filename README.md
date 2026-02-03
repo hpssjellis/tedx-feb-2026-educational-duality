@@ -496,7 +496,6 @@ But it only works if we give the brain something worth processing.
 
 ---
 
-# **NEW SECTION**  
 ## A Concrete Practice: LED / LEAD Time  
 ### A 10–20 Minute Daily Routine That Builds Cognitive Infrastructure
 
@@ -573,6 +572,207 @@ If they can persist, they can remain awake.
 
 Education’s responsibility is not to slow technology down.
 
+It is to ensure humans grow strong enough to stand next to it.
+
+Someone must always be awake in the system.
+
+That is the job.
+
+
+
+
+.
+
+
+.
+
+
+
+.
+
+
+
+# Conference Short Version
+
+
+# Why We Must Do What the Machine Can Do  
+### Short Conference Version (10–12 minutes)
+
+---
+
+## Opening: Someone Must Be Awake
+
+Let me start with a simple question:
+
+**Would you get on a fully automated plane  
+if no one on board knew how to fly?**
+
+Not as a backup.  
+Not in an emergency.  
+Not even to notice when something feels wrong.
+
+That is the moment we are living in with AI.
+
+The systems are powerful.  
+The automation is impressive.  
+But the safety of the entire flight still depends on whether a human can recognize when the machine is drifting off course.
+
+Education is not about resisting technology.  
+It is about making sure someone is awake in the cockpit.
+
+---
+
+## The Core Claim
+
+If we stop practicing the basic operations of thinking —  
+calculation, logic, estimation, persistence —  
+we lose the ability to judge the machine.
+
+This is not a productivity issue.  
+It is an agency issue.
+
+---
+
+## The Brain Systems at Risk
+
+Two regions matter deeply in the age of AI:
+
+### **ACC — The Error Detector**  
+It tells us, *“Something is off.”*
+
+### **AMCC — The Willpower Engine**  
+It grows when we do difficult things we would rather avoid.
+
+When students choose frictionless answers over effortful thinking,  
+these systems weaken.
+
+Convenience doesn’t just save time.  
+It removes the biological hardware required for judgment.
+
+---
+
+## The New Problem: AI Hallucinations
+
+AI systems are not truth machines.  
+They are probability machines.
+
+They generate fluent answers — not verified ones.
+
+Correctness now depends on the human audit.
+
+If the human lacks foundational skills,  
+there is no internal baseline to trigger an alarm.
+
+No baseline → no alarm → no correction.
+
+---
+
+## We’ve Seen This Before
+
+When calculators replaced mental math, we didn’t just lose arithmetic.
+
+We lost number sense.  
+We lost estimation.  
+We lost the ability to *feel* when an answer is wrong.
+
+AI is repeating this pattern —  
+faster, wider, and earlier.
+
+---
+
+## The Inequality Problem
+
+A small group of students are thriving with technology.  
+They build, explore, and accelerate.
+
+But they all share one advantage:
+
+**They already have strong foundations.**
+
+AI didn’t create capability.  
+It amplified it.
+
+The danger is not replacement.  
+The danger is divergence.
+
+This is not a talent gap.  
+It is an infrastructure gap.
+
+---
+
+## Why Foundations Still Matter
+
+Foundational skills are not about speed.
+
+They are about judgment.
+
+If a student can estimate, they can challenge results.  
+If they can reason, they can detect contradictions.  
+If they can persist, they can resist automation bias.
+
+We learn to do what the machine can do  
+not to compete with it —  
+but to know when it has failed.
+
+---
+
+# A Concrete Practice: LED / LEAD Time  
+### A 10–20 Minute Routine That Builds Cognitive Infrastructure
+
+Here is one practice teachers and parents can implement immediately.
+
+### **LED (Teacher-Led Practice)**  
+Students complete a short, effortful task:  
+- A handwritten worksheet  
+- A retrieval practice quiz  
+- A reasoning or estimation challenge  
+
+This strengthens ACC and AMCC — the systems that detect error and sustain effort.
+
+### **LEAD (Student-Led Learning)**  
+If a student demonstrates mastery,  
+they earn the same 10–20 minutes to **lead their own learning** using technology.
+
+They might:  
+- Explore a related topic  
+- Build something with AI  
+- Research a question  
+- Extend the concept creatively  
+
+The teacher circulates, coaches, and calibrates.
+
+If only a few students reach LEAD time,  
+the LED task was too hard.  
+If everyone reaches it,  
+it was too easy.
+
+This is not a reward system.  
+It is a **differentiation engine** that keeps every student awake in the cockpit.
+
+### A Home Version  
+Parents can do the same in 10 minutes:
+
+1. **LED:**  
+   A short, effortful task (reading aloud, math facts, logic puzzles).
+
+2. **LEAD:**  
+   If the child shows mastery,  
+   they get time to explore something they care about —  
+   with technology as a tool, not a crutch.
+
+---
+
+## Closing
+
+The future does not need faster answers.
+
+It needs people who can tell when an answer is wrong.
+
+If students can calculate, they can question.  
+If they can reason, they can verify.  
+If they can persist, they can remain awake.
+
+Education’s responsibility is not to slow technology down.  
 It is to ensure humans grow strong enough to stand next to it.
 
 Someone must always be awake in the system.
