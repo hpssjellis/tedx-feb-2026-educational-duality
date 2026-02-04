@@ -86,8 +86,9 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 <img width="1011" height="493" alt="image" src="https://github.com/user-attachments/assets/758e5390-d503-443d-baa8-b8e2290e7728" />
 
 
-16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+16. Conclusion: What the Future Might Actually Require. The goal is not to survive the machine, but to remain the pilot of it.
 
+<img width="819" height="484" alt="image" src="https://github.com/user-attachments/assets/cccb646f-729a-4f7b-bd1b-c21670406c75" />
 
 
 
@@ -109,7 +110,7 @@ Basic Slides
 13. For Teachers: Friction Before Freedom. Use the LED/LEAD model to make effort non-negotiable.
 14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
 15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
-16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+16. Conclusion: What the Future Might Actually Require. The goal is not to survive the machine, but to remain the pilot of it.
 
 
 
@@ -200,11 +201,12 @@ or
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbc022af-5de4-46c2-a203-84010ca6523e" />
 
 
-# page 16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+# 16. Conclusion: What the Future Might Actually Require. The goal is not to survive the machine, but to remain the pilot of it.
 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f401d1ae-0f29-435b-a31a-213a2a6dcea5" />
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b681b70e-2ab6-449f-aef8-23e2202eb99d" />
 
 
 
