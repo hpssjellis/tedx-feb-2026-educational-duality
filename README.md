@@ -7,22 +7,22 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 Basic Slides
 
-1. Title: Who’s Awake When the Machine Is Wrong?
-2. Someone Still Has to Know How to Fly
-3. Why I’m Saying This Now
-4. The Risk We Don’t Like to Name
-5. Judgment Is a Biological Skill
-6. The Brain’s Error Signal
-7. The Brain’s Persistence Engine
-8. Fluent Does Not Mean True
-9. This Pattern Is Not New
-10. Technology Is Widening the Gap
-11. The New Core Skills
-12. Three Concrete Interventions
-13. For Teachers: Friction Before Freedom
-14. For Parents: Protect the Pre-Sleep Brain
-15. For Administrators: Make Skills a Shared Outcome
-16. Conclusion: What the Future Might Actually Require
+1. Title: Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.
+2. Someone Still Has to Know How to Fly. Would you trust a pilot who’s never seen a cockpit?
+3. Why I’m Saying This Now. 35 years of coding has revealed a new kind of "cognitive decline." 
+4. The Risk We Don’t Like to Name. When we outsource effort, we lose our internal compass.
+5. Our Internal Quality Control. Critical thinking isn't just a mindset—it's neural circuitry.
+6. The Brain’s Error Signal. The ACC: Your biological "alarm bell" for when things feel wrong.
+7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
+8. Fluent Does Not Mean True. AI doesn't give you facts; it gives you high-speed probabilities.
+9. This Pattern Is Not New. We didn’t just lose math to calculators; we lost the "feeling" of numbers.
+10. Technology Is Widening the Gap. AI doesn't create talent—it amplifies existing foundations.
+11. The New Core Skills. We practice what the machine does so we can tell when it fails.
+12. Three Concrete Interventions. Moving from philosophy to practice: Friction, Sleep, and Systems.
+13. For Teachers: Friction Before Freedom. Use the LED/LEAD model to make effort non-negotiable.
+14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
+15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
+16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
 
 
 
@@ -181,7 +181,7 @@ It is about staying in control.
 
 ---
 
-## Judgment Is a Biological Skill
+## Our Internal Quality Control
 
 This is not a metaphor.  
 It is neurology.
