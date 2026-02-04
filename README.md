@@ -22,10 +22,8 @@ Basic Slides
 13. For Teachers: Friction Before Freedom
 14. For Parents: Protect the Pre-Sleep Brain
 15. For Administrators: Make Skills a Shared Outcome
-16. Conclusion: What the Future Actually Requires
+16. Conclusion: What the Future Might Actually Require
 
-
-21. Conclusion
 
 
 
@@ -391,7 +389,7 @@ we need systems that train and measure that ability honestly.
 
 ---
 
-## Conclusion: What the Future Actually Requires
+## Conclusion: What the Future Might Actually Require
 
 The future does not need faster answers.
 
