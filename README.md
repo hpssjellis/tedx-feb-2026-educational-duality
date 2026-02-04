@@ -58,7 +58,8 @@ Basic Slides
 
 # page 6. The Brain’s Error Signal. The ACC: Your biological "alarm bell" for when things feel wrong.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/03cf8ef0-f8ec-4e53-9e37-dc17fea1fe09" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1520aeac-4f19-48a0-805c-1c9e5c817c92" />
+
 
 # page 7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
 
@@ -69,6 +70,10 @@ Basic Slides
 # page 8. Fluent Does Not Mean True. AI doesn't give you facts; it gives you high-speed probabilities.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/308ec8ca-5e47-4c8e-bd2c-800643b67a02" />
+
+or
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/03cf8ef0-f8ec-4e53-9e37-dc17fea1fe09" />
 
 
 # page 9. This Pattern Is Not New. We didn’t just lose math to calculators; we lost the "feeling" of numbers.
