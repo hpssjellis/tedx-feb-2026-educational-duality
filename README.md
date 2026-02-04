@@ -62,8 +62,13 @@ Basic Slides
 
 # page 7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/415372e2-a3c5-4312-9875-7e633e5b29ed" />
+
+
 
 # page 8. Fluent Does Not Mean True. AI doesn't give you facts; it gives you high-speed probabilities.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/308ec8ca-5e47-4c8e-bd2c-800643b67a02" />
 
 
 # page 9. This Pattern Is Not New. We didn’t just lose math to calculators; we lost the "feeling" of numbers.
@@ -73,14 +78,20 @@ Basic Slides
 
 # page 10. Technology Is Widening the Gap. AI doesn't create talent—it amplifies existing foundations.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ffbaef8-eb42-488f-b1db-7641b0909fb0" />
+
 
 # page 11. The New Core Skills. We practice what the machine does so we can tell when it fails.
 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/381d363e-b3b1-4b04-b791-7330c0d84b46" />
 
 # page 12. Three Concrete Interventions. Moving from philosophy to practice: Friction, Sleep, and Systems.
 
 
 # page 13. For Teachers: Friction Before Freedom. Use the LED/LEAD model to make effort non-negotiable.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/032a3c2a-70e1-4960-8874-e8fbeff498be" />
 
 
 # page 14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
@@ -88,8 +99,13 @@ Basic Slides
 
 # page 15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbc022af-5de4-46c2-a203-84010ca6523e" />
+
 
 # page 16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f401d1ae-0f29-435b-a31a-213a2a6dcea5" />
 
 
 
