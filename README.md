@@ -5,6 +5,93 @@ TedX Feb 13th, 2026 Educational Duality: Why it's important to still do what the
 Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html)
 
 
+
+## Best batch of images 16:9 format
+
+
+1. Title: Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.
+
+<img width="819" height="494" alt="image" src="https://github.com/user-attachments/assets/96cc0e0f-326d-456e-ae83-84cf87c265be" />
+
+
+2. Someone Still Has to Know How to Fly. Would you trust a pilot who’s never seen a cockpit?
+
+
+<img width="819" height="506" alt="image" src="https://github.com/user-attachments/assets/0578dc03-071d-455e-994f-c76f10d619b2" />
+
+
+3. Why I’m Saying This Now. 35 years of coding has revealed a new kind of "cognitive decline."
+
+<img width="1168" height="697" alt="image" src="https://github.com/user-attachments/assets/f1a6cbf4-c167-4100-9494-ffea654c0aba" />
+
+
+4. The Risk We Don’t Like to Name. When we outsource effort, we lose our internal compass.
+<img width="819" height="431" alt="image" src="https://github.com/user-attachments/assets/4d3deef1-cdc6-4067-a77c-8aebe1dc54a4" />
+
+
+
+5. Our Internal Quality Control. Critical thinking isn't just a mindset—it's neural circuitry.
+<img width="819" height="425" alt="image" src="https://github.com/user-attachments/assets/358d13e2-81bc-482c-8716-8f71dec0b560" />
+
+
+
+6. The Brain’s Error Signal. The ACC: Your biological "alarm bell" for when things feel wrong.
+
+<img width="819" height="449" alt="image" src="https://github.com/user-attachments/assets/5b52b259-d9b6-4436-b887-76a87702ee4e" />
+
+
+7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
+<img width="819" height="411" alt="image" src="https://github.com/user-attachments/assets/837586c2-600c-498f-b94f-a5e8a03696d6" />
+
+
+
+8. Fluent Does Not Mean True. AI doesn't give you facts; it gives you high-speed probabilities.
+<img width="819" height="426" alt="image" src="https://github.com/user-attachments/assets/d35c9f7c-5a27-4779-9d58-9d66ee491e3d" />
+
+
+
+9. This Pattern Is Not New. We didn’t just lose math to calculators; we lost the "feeling" of numbers.
+
+<img width="819" height="392" alt="image" src="https://github.com/user-attachments/assets/7e2708f8-ff7e-4356-bf2f-c11dc0a61d60" />
+
+
+
+10. Technology Is Widening the Gap. AI doesn't create talent—it amplifies existing foundations.
+
+<img width="819" height="444" alt="image" src="https://github.com/user-attachments/assets/6866eace-15a8-4942-b925-9a913cf6d203" />
+
+
+11. The New Core Skills. We practice what the machine does so we can tell when it fails.
+<img width="945" height="573" alt="image" src="https://github.com/user-attachments/assets/4c0bae51-744d-423e-9bd5-089d7b23aa4f" />
+
+
+
+12. Three Concrete Interventions. Moving from philosophy to practice: Friction, Sleep, and Systems.
+
+<img width="819" height="423" alt="image" src="https://github.com/user-attachments/assets/e69ac9a7-2450-41d1-aad9-2b7f24760db2" />
+
+
+13. For Teachers: Friction Before Freedom. Use the LED or LEAD model to make effort non-negotiable.
+<img width="819" height="485" alt="image" src="https://github.com/user-attachments/assets/59ffe161-9062-450b-8039-c359719dbfba" />
+
+
+
+14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
+
+<img width="819" height="437" alt="image" src="https://github.com/user-attachments/assets/b37d8020-c583-4de7-afa2-75d84058dc27" />
+
+
+15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
+
+<img width="1011" height="493" alt="image" src="https://github.com/user-attachments/assets/758e5390-d503-443d-baa8-b8e2290e7728" />
+
+
+16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+
+
+
+
+
 Basic Slides
 
 1. Title: Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.
@@ -517,7 +604,7 @@ It is to ensure humans grow strong enough to stand beside it.
 
 Someone must always be awake in the cockpit.
 
-That is the job.
+The system provides the data, but the pilot provides the judgment. That is the job.
 
 
 
