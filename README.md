@@ -7,21 +7,25 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 Basic Slides
 
-1. Title: Why We Must Do What the Machine Can Do
-2. The Athlete vs. The Algorithm
-3. The Physiology of Willpower: ACC vs. AMCC
-4. ME skip
-5. Duality of light lesson light's duality (acting as both wave and particle) is the Double-Slit Experiment, famously performed by Thomas Young
-6. Relevance: AI is bad AI is good, Rote learning is bad, Higher level thinking is good. Society will passionately argue these while both sides are correct, just like light.
-7. Lesson: Hypnagogic state, before sleep not before bed: story, connections, day review or else memes and sound bites will occupy your sleep.
-8. Lesson: The great Math Error in the 1980's
-9. Lesson: AMCC (will Power achieveable from challenging tasks), ACC (regulation of emotionals, cognition, and motion)
-10. Lesson: The brain is a decision making biological actuator, it is not a muscle but the analogy of use it or lose it does apply. Use all of the brain areas or lose the ability to use those brain areas. Encourage the process not just the result. AI makes a better result most of the time.
-11. Controversial: CRAFT Grade 10's should take an exam of grade 7 numeracy, logic and Comkmunication to determine brain areas to work on for a lifgetime of learning
-12. Controversial: Anyone who is in a carrier that makes decisions for others should have to pass the same exam every 3 years.
-13. To Do, at home with or without support
-14. To Do, at school, even if your school bands Cell phones or AI
-15. Conclusion
+1. Title: Who’s Awake When the Machine Is Wrong?
+2. Someone Still Has to Know How to Fly
+3. Why I’m Saying This Now
+4. The Risk We Don’t Like to Name
+5. Judgment Is a Biological Skill
+6. The Brain’s Error Signal
+7. The Brain’s Persistence Engine
+8. Fluent Does Not Mean True
+9. This Pattern Is Not New
+10. Technology Is Widening the Gap
+11. The New Core Skills
+12. Three Concrete Interventions
+13. For Teachers: Friction Before Freedom
+14. For Parents: Protect the Pre-Sleep Brain
+15. For Administrators: Make Skills a Shared Outcome
+16. Conclusion: What the Future Actually Requires
+
+
+21. Conclusion
 
 
 
@@ -273,7 +277,7 @@ It is a foundational skills gap.
 
 ---
 
-## Foundations Are About Judgment, Not Competition
+## The New Core Skills
 
 Foundational skills are not about beating machines at their own game.
 
@@ -387,7 +391,7 @@ we need systems that train and measure that ability honestly.
 
 ---
 
-## What the Future Actually Requires
+## Conclusion: What the Future Actually Requires
 
 The future does not need faster answers.
 
@@ -412,9 +416,21 @@ That is the job.
 
 
 
+1. The ACC & aMCC Research (Neuroscience)
+Citation: Carter, C. S., Braver, T. S., Barch, D. M., Botvinick, M. M., Noll, D., & Cohen, J. D. (1998). Anterior cingulate cortex, error detection, and the online monitoring of performance. Science, 280(5364), 747-749. https://doi.org/10.1126/science.280.5364.747
 
-*Speaker notes: The neuroscience claims are grounded in peer-reviewed research — ACC error detection (Carter et al., 1998, Science) and aMCC tenacity (Touroutoglou et al., 2020, Cortex). The aMCC "muscle" metaphor is supported by the research but the causal link is strongly suggested, not fully proven — worth being honest about if challenged. The fabricated legal brief example (Mata v. Avianca, 2023) is documented and well-sourced.*
+Citation: Touroutoglou, A., Andreano, J., Dickerson, B. C., & Barrett, L. F. (2020). The tenacious brain: How the anterior midcingulate contributes to metabolic allostasis and protracted healthspan. Cortex, 123, 114-129. https://doi.org/10.1016/j.cortex.2019.09.011
+
+Speaker notes: The neuroscience claims are grounded in peer-reviewed research—specifically, the ACC’s role in error detection (Carter et al., 1998) and the aMCC’s link to "tenacity" and willpower (Touroutoglou et al., 2020). While the "muscle" metaphor for the aMCC aligns with the research on neuroplasticity and effort, it’s important to note the causal link is strongly suggested rather than fully proven. If challenged, frame it as a promising neurobiological model for persistence.
+
+2. The AI Legal Precedent (Ethics/Precision)
+Citation: Mata v. Avianca, Inc., No. 22-CV-1461 (PKC), 2023 WL 4114965 (S.D.N.Y. June 22, 2023). https://嶺.gov/court-listener/case/mata-v-avianca/ (Standard legal link: https://www.courtlistener.com/docket/63107798/mata-v-avianca-inc/)
+
+Speaker notes: The example of the fabricated legal brief (Mata v. Avianca, 2023) is a documented case of "hallucination" in a professional setting. It serves as a stark reminder that fluency does not equal accuracy; without foundational domain knowledge, the user cannot detect when the machine is confidently incorrect.
 
 
 Citation:
 Carbone, J., & Diekelmann, S. (2024). An update on recent advances in targeted memory reactivation during sleep. npj Science of Learning, 9, Article 31. https://www.nature.com/articles/s41539-024-00244-8
+
+Speaker Notes
+"This 2024 review in npj Science of Learning discusses Targeted Memory Reactivation (TMR)—the process of using sensory cues during sleep to strengthen specific memories. It highlights that learning doesn't end when the student stops 'working'; the brain continues to refine and consolidate those foundations during rest. This supports our argument for persistence and deep practice: we aren't just memorizing facts for a test, we are quite literally 'programming' the neural pathways that allow for the long-term intuition needed to audit machine output."
