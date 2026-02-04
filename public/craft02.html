@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 7 Cognitive Skills Explorer</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; background: #f9f9f9; }
+        h1 { color: #2c3e50; }
+        #myDiv1 { 
+            background: white; 
+            padding: 20px; 
+            border-radius: 8px; 
+            border: 1px solid #ddd; 
+            overflow-x: auto;
+            margin-top: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        select { 
+            padding: 12px; 
+            width: 100%; 
+            max-width: 600px; 
+            border-radius: 5px; 
+            border: 2px solid #3498db;
+            font-size: 16px;
+        }
+        .info-box {
+            background: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            border-left: 4px solid #3498db;
+        }
+        .iframe-container {
+            margin-top: 20px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+        .skill-category {
+            font-weight: bold;
+            color: #2980b9;
+            background: #ecf0f1;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 align="center">Grade 7 Cognitive Skills Explorer</h1>
+    <p align="center">Select a cognitive skill area to practice. All resources are free and require no API keys!</p>
+
+    <div align="center">
+        <select id="mySelect" size="1" onchange="loadResource(this.value)">
+            <option value="">-- Choose a Cognitive Skill Area --</option>
+            
+            <option class="skill-category" disabled>━━━ MEMORY & ATTENTION ━━━</option>
+            <option value="https://www.memozor.com/memory-games/for-kids/game-for-7-years-old">Memory Matching Game (Visual Memory)</option>
+            <option value="https://humanbenchmark.com/tests/memory">Number Memory Test (Working Memory)</option>
+            <option value="https://humanbenchmark.com/tests/verbal-memory">Verbal Memory Test (Word Recognition)</option>
+            <option value="https://humanbenchmark.com/tests/sequence">Visual Pattern Memory (Sequence)</option>
+            
+            <option class="skill-category" disabled>━━━ NUMERACY & MATH ━━━</option>
+            <option value="https://www.mathsisfun.com/numbers/estimation-game.html">Number Estimation (Number Sense)</option>
+            <option value="https://www.mathsisfun.com/games/timed-times-tables.html">Multiplication Speed Test (Math Fluency)</option>
+            <option value="https://www.mathplayground.com/ASB_Index.html">Algebra & Problem Solving Puzzles</option>
+            <option value="https://www.mathsisfun.com/games/random-number-generator.html">Random Number Generator (Probability)</option>
+            
+            <option class="skill-category" disabled>━━━ LOGIC & REASONING ━━━</option>
+            <option value="https://www.mathsisfun.com/games/towerofhanoi.html">Tower of Hanoi (Problem Solving)</option>
+            <option value="https://www.mathsisfun.com/puzzles/">Math & Logic Puzzles Collection</option>
+            <option value="https://www.brainmetrix.com/iq-test/">Pattern Recognition Test (Visual Logic)</option>
+            
+            <option class="skill-category" disabled>━━━ PROCESSING SPEED ━━━</option>
+            <option value="https://humanbenchmark.com/tests/reactiontime">Reaction Time Test</option>
+            <option value="https://humanbenchmark.com/tests/typing">Typing Speed Test (Processing Speed)</option>
+            <option value="https://humanbenchmark.com/tests/aim">Aim Trainer (Visual-Motor Speed)</option>
+            
+            <option class="skill-category" disabled>━━━ LANGUAGE & VOCABULARY ━━━</option>
+            <option value="https://www.vocabulary.com/challenge/">Vocabulary Challenge (Word Learning)</option>
+            <option value="https://freerice.com/categories/english-vocabulary">FreeRice Vocabulary (Adaptive Learning)</option>
+            
+            <option class="skill-category" disabled>━━━ EXECUTIVE FUNCTION ━━━</option>
+            <option value="https://www.mathsisfun.com/games/reflex-time.html">Reflex & Decision Making Test</option>
+            <option value="https://humanbenchmark.com/tests/chimp">Chimp Test (Spatial Working Memory)</option>
+        </select>
+    </div>
+
+    <div id="myDiv1">
+        <div class="info-box">
+            <h3>📚 About This Tool</h3>
+            <p>This explorer connects you to <strong>free, web-based cognitive skill activities</strong> designed for Grade 7 students. These resources help assess and develop:</p>
+            <ul>
+                <li><strong>Memory:</strong> Visual, verbal, and working memory</li>
+                <li><strong>Numeracy:</strong> Math fluency, number sense, and problem-solving</li>
+                <li><strong>Logic:</strong> Reasoning, pattern recognition, and critical thinking</li>
+                <li><strong>Processing Speed:</strong> Reaction time and information processing</li>
+                <li><strong>Language:</strong> Vocabulary and reading comprehension</li>
+                <li><strong>Executive Function:</strong> Planning, decision-making, and cognitive flexibility</li>
+            </ul>
+            <p><strong>No API keys required!</strong> All resources load directly in your browser.</p>
+        </div>
+    </div>
+
+    <script>
+        function loadResource(url) {
+            if (!url) return;
+            
+            const displayDiv = document.getElementById('myDiv1');
+            const selectedText = document.getElementById('mySelect').selectedOptions[0].text;
+            
+            displayDiv.innerHTML = `
+                <div class="info-box">
+                    <h3>🎯 Now Loaded: ${selectedText}</h3>
+                    <p>The activity will load below. You can interact with it directly!</p>
+                    <p><small><strong>Tip:</strong> Some activities may take a moment to load. If you see a blank screen, try clicking on the frame or refreshing the page.</small></p>
+                </div>
+                <div class="iframe-container">
+                    <iframe src="${url}" title="${selectedText}"></iframe>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>
