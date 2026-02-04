@@ -27,6 +27,80 @@ Basic Slides
 
 
 
+
+
+
+
+
+
+
+
+
+# page 1. Title: Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c94938ac-9b29-4172-b371-0cdc7e2179b3" />
+
+# page 2. Someone Still Has to Know How to Fly. Would you trust a pilot who’s never seen a cockpit?
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/85861322-2a8f-4aba-9fb7-4ae7bdfd1a1e" />
+# page 3. Why I’m Saying This Now. 35 years of coding has revealed a new kind of "cognitive decline." 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/97ff84b9-cc5d-4d76-b9bd-d23f7a3cbd16" />
+
+# page 4. The Risk We Don’t Like to Name. When we outsource effort, we lose our internal compass.
+
+ (spelling mistake: outsource)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d11c700-8b89-4180-8f41-37a91b95fc5a" />
+
+# page 5. Our Internal Quality Control. Critical thinking isn't just a mindset—it's neural circuitry.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c2eabb-a3b9-4118-bb4a-d252635e761b" />
+
+# page 6. The Brain’s Error Signal. The ACC: Your biological "alarm bell" for when things feel wrong.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/03cf8ef0-f8ec-4e53-9e37-dc17fea1fe09" />
+
+# page 7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
+
+
+# page 8. Fluent Does Not Mean True. AI doesn't give you facts; it gives you high-speed probabilities.
+
+
+# page 9. This Pattern Is Not New. We didn’t just lose math to calculators; we lost the "feeling" of numbers.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d9b9635-fdd6-4255-b6b8-b027915383b7" />
+
+
+# page 10. Technology Is Widening the Gap. AI doesn't create talent—it amplifies existing foundations.
+
+
+# page 11. The New Core Skills. We practice what the machine does so we can tell when it fails.
+
+
+# page 12. Three Concrete Interventions. Moving from philosophy to practice: Friction, Sleep, and Systems.
+
+
+# page 13. For Teachers: Friction Before Freedom. Use the LED/LEAD model to make effort non-negotiable.
+
+
+# page 14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
+
+
+# page 15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
+
+
+# page 16. Conclusion: What the Future Might Actually Require. The goal isn't to beat the machine; it's to remain awake beside it.
+
+
+
+
+
+
+
+
+
+OLD Images
+
 ## Cloud, Edge, Tiny
 
 <img width="727" height="408" alt="image" src="https://github.com/user-attachments/assets/ec2fed3c-20a1-4738-9adb-547bc04c2ff9" />
@@ -68,10 +142,16 @@ Basic Slides
 
 
 
-# Led or Lead or is it Lead or Led.
+# Led / Lead 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/702dc19f-ce7a-436e-ace2-57ca76392523" />
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/162d9738-9814-4d4f-ba5f-cd66dc2a37e4" />
+
+
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7cf41c17-3749-484e-814b-3ea1e1e5c00d" />
 
 
 #  Cloud-LLM's, EdgeAI, Tiny ML
@@ -102,6 +182,11 @@ old
 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5e8bec0-53c8-40c2-9ad0-58f54a25f8d1" />
+
+
+
+
+Possible Slides
 
 
 
@@ -244,14 +329,9 @@ This is the failure mode we are training for if we are not careful.
 
 ## This Pattern Is Not New
 
-When calculators replaced mental math, we didn’t just lose arithmetic.
+When calculators replaced mental math, we did it for a good reason: to free the mind for higher-level mathematics. But in the process, we didn’t just lose arithmetic. We lost number sense. We lost estimation. We lost the gut-feeling that an answer was simply wrong, the biological alarm that should have been triggered by our ACC.. AI is repeating this pattern—faster, broader, and earlier in development  
 
-We lost number sense.  
-We lost estimation.  
-We lost the feeling that an answer was wrong.
-
-AI is repeating this pattern —  
-faster, broader, and earlier in development.
+AI is repeating this pattern  faster, broader, and earlier in development.
 
 ---
 
@@ -311,14 +391,19 @@ Here are three actions that work.
 
 ## For Teachers: Friction Before Freedom
 
-Use a **LED / LEAD** structure.
+The LED / LEAD Framework
 
-**LED** time begins class.  
-Short, effortful, human work.  
-Handwritten problems. Estimation. Retrieval practice.
+### LED: Low-Tech, Effort-Driven
 
-**LEAD** time follows.  
-Students who clear LED work can explore — using AI, building projects, extending ideas.
+The "Friction": Handwritten work, estimation, and retrieval practice.
+
+The Goal: Engaging the ACC and aMCC before the machine takes over.
+
+### LEAD: Log-on, Explore, And Discover
+
+The "Freedom": Using AI to extend ideas, build projects, and scale output.
+
+The Goal: Using the machine to amplify a solid foundation.
 
 The teacher circulates and calibrates.
 
