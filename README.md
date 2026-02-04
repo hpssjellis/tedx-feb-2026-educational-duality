@@ -23,7 +23,8 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 3. Why I’m Saying This Now. 35 years of coding has revealed a new kind of "cognitive decline."
 
-<img width="1168" height="697" alt="image" src="https://github.com/user-attachments/assets/f1a6cbf4-c167-4100-9494-ffea654c0aba" />
+<img width="819" height="468" alt="image" src="https://github.com/user-attachments/assets/6cf7b533-ed41-4fa9-a74b-790cb407db77" />
+
 
 
 4. The Risk We Don’t Like to Name. When we outsource effort, we lose our internal compass.
