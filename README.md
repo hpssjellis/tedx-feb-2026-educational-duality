@@ -16,8 +16,9 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 2. Someone Still Has to Know How to Fly. Would you trust a pilot who’s never seen a cockpit?
 
+<img width="819" height="512" alt="image" src="https://github.com/user-attachments/assets/ca03ab30-7d9a-4f21-b616-7bd5576af5e8" />
 
-<img width="819" height="506" alt="image" src="https://github.com/user-attachments/assets/0578dc03-071d-455e-994f-c76f10d619b2" />
+
 
 
 3. Why I’m Saying This Now. 35 years of coding has revealed a new kind of "cognitive decline."
