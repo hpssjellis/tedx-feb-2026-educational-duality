@@ -93,6 +93,8 @@ or
 
 # page 12. Three Concrete Interventions. Moving from philosophy to practice: Friction, Sleep, and Systems.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/85a2f5cc-edc5-4b06-be34-13f1fa033952" />
+
 
 # page 13. For Teachers: Friction Before Freedom. Use the LED/LEAD model to make effort non-negotiable.
 
@@ -100,6 +102,10 @@ or
 
 
 # page 14. For Parents: Protect the Pre-Sleep Brain. What happens before the lights go out determines what sticks.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/31da958f-143c-4d37-984d-f3afdd306e71" />
+
+
 
 
 # page 15. For Administrators: Make Skills a Shared Outcome. Auditing AI is a school-wide responsibility, not a single grade's job.
