@@ -148,6 +148,13 @@ QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educat
  </div>
 
 
+<button onclick="closeAllDetails()">Close All</button>
+<button onclick="openAllDetails()">Open All</button>
+
+
+
+
+
 <div id="myMain">
 
 
@@ -733,10 +740,29 @@ function myNext(){
  */
 
 
- 
-</script> 
- 
- 
+
+function closeAllDetails() {
+    // Select all details elements on the page
+    const details = document.querySelectorAll('details');
+
+    // Iterate through the NodeList and set the 'open' attribute to false
+    details.forEach(detail => {
+        detail.open = false;
+    });
+}
+
+
+
+function openAllDetails() {
+    // Select all details elements on the page
+    const details = document.querySelectorAll('details');
+
+    // Iterate through the NodeList and set the 'open' attribute to true
+    details.forEach(detail => {
+        detail.open = true;
+    });
+}
+</script>
 
  
  
