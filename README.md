@@ -1033,6 +1033,8 @@ Speaker notes: The neuroscience claims are grounded in peer-reviewed research—
 Speaker notes: The example of the fabricated legal brief (Mata v. Avianca, 2023) is a documented case of "hallucination" in a professional setting. It serves as a stark reminder that fluency does not equal accuracy; without foundational domain knowledge, the user cannot detect when the machine is confidently incorrect.
 
 4. Citation: Carbone, J., & Diekelmann, S. (2024). An update on recent advances in targeted memory reactivation during sleep. npj Science of Learning, 9, Article 31. https://www.nature.com/articles/s41539-024-00244-8
+
+   
 Speaker Notes "This 2024 review in npj Science of Learning discusses Targeted Memory Reactivation (TMR)—the process of using sensory cues during sleep to strengthen specific memories. It highlights that learning doesn't end when the student stops 'working'; the brain continues to refine and consolidate those foundations during rest. This supports our argument for persistence and deep practice: we aren't just memorizing facts for a test, we are quite literally 'programming' the neural pathways that allow for the long-term intuition needed to audit machine output."
 
 
