@@ -682,8 +682,15 @@ Let me start with a simple question: Would you get on a fully automated plane if
 Why I’m Saying This Now.
 image
 
-35 years of teaching coding has revealed a new kind of "cognitive decline."
-I have been teaching coding for 35 years, and I’ve followed neural networks since long before they were mainstream. About ten years ago, I started noticing something that looked like cognitive decline linked to screens and automation. At the time, I wasn’t sure. Now I am. I have watched students build extraordinary things apps, robots, systems that genuinely work. And at the same time, I have watched something else happen: The outputs are improving. The understanding is eroding. This is not theoretical. It is visible, daily, in classrooms. That is why this conversation matters.
+I’ve been teaching coding for 35 years, working with both web-based AI systems and tinyML long before AI became a public conversation. That long view matters here, because what I’m describing did not appear overnight.
+
+About ten years ago, I started noticing something unusual in my programming classes. Skills that once formed a bell curve—things like conditional logic, if statements, multidimensional arrays—no longer did. Instead, the curve split. A group of students continued to thrive. Another group struggled to acquire even basic decision-making structures. It looked like a double-hump camel.
+
+At the time, I blamed screens. That seemed reasonable. But I was wrong. Many students with heavy screen exposure were doing exceptionally well. Screen time wasn’t the cause.
+
+What changed three years ago was visibility. When large language models entered classrooms, the cognitive erosion I had been quietly observing for a decade became obvious to every teacher. And it wasn’t limited to programming anymore. It showed up in reasoning, estimation, persistence, and the ability to notice when something didn’t make sense.
+
+The outputs kept improving. The foundations were thinning. What had been subtle became unmistakable. That is why this conversation matters now.
 
 
 4
