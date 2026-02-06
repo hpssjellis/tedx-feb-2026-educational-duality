@@ -342,7 +342,7 @@ Math: Builds Sanity Checks. Using estimation to verify the machine's precision.
 
 English: Builds Subtext. Finding the human meaning between the lines.
 
-Science: Builds First Principles. Testing if the logic holds up in the real world.
+Science: Builds empirical evidence. Using the scientific method to test if the machine’s logic holds up in the real world.
 
 Social Studies: Builds Skepticism. Evaluating the source, not just the fluency.
 
