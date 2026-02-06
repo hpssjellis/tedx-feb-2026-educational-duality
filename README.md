@@ -240,14 +240,16 @@ Why? No baseline. No internal alarm. No correction.
 ## 9 This Pattern Is Not New.
 **We didn’t just lose arithmetic. We lost number sense.**
 
-Calculators freed us for higher-level math, and that part worked. But many students lost estimation and magnitude, the gut feeling that says, *“That answer can’t be right.”*
+In the 1980s, calculators freed us for high-level math. That part worked, but we paid a price: we lost the "gut feeling" for estimation and magnitude—the internal alarm that says, “That answer can’t be right.”
 
-The Flynn Effect shows the same pattern at a larger scale. Some cognitive skills increased—especially visual processing and game-like problem solving. At the same time, overall IQ gains have stalled and reversed in several countries. The average masks divergence: small gains in some areas are hiding significant losses in foundational reasoning skills.
+The Flynn Effect shows this same divergence at scale. While we gained "game-like" visual problem-solving, our foundational reasoning skills have stalled or reversed (Bratsberg & Rogeberg, 2018). We are trading deep cognitive intuition for surface-level speed.
+
+AI is accelerating this trade-off. It doesn't just affect math; it targets language, logic, and judgment—the very systems our internal "pilot" needs to stay awake.
 
 
 [Bratsberg & Rogeberg, 2018](https://www.pnas.org/doi/10.1073/pnas.1718793115)
 
-AI is accelerating this pattern. It affects not just math, but language, reasoning, and judgment—the very systems our internal alarms depend on.
+
 
 ---
 
@@ -332,19 +334,19 @@ Sustained problem-solving.
 
 Every teacher owns a piece of the human pilot:
 
-Elementary: Builds fluency and automaticity
+Elementary: Builds Automaticity. Without the basics, there is no "Number Sense."
 
-Middle School: Builds the "error signal"—questioning why things feel wrong.
+Middle School: Builds the Error Signal. Teaching the "gut feeling" that a result is off-nominal.
 
-English: Builds deep comprehension.
+Math: Builds Sanity Checks. Using estimation to verify the machine's precision.
 
-Math: Builds estimation and "sanity checks."
+English: Builds Subtext. Finding the human meaning between the lines.
 
-Science: Builds evidence-based logic.
+Science: Builds First Principles. Testing if the logic holds up in the real world.
 
-Social Studies: Builds source evaluation.
+Social Studies: Builds Skepticism. Evaluating the source, not just the fluency.
 
-Electives: Build the foundations of specialized intuition.
+Electives: Build Physical Intuition. Mastery that requires a body, not just data.
 
 No blame. Shared ownership.
 
