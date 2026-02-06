@@ -196,9 +196,9 @@ Convenience feels like progress, but it has a cost. This is not about working ha
 
 This is not a metaphor. It is neuroscience.
 
-The Added Problem
+The Added Problem:
 
-Schools that ban phones protect the focus required for foundations, but they create a clinical vacuum. Without the phone present, students must develop an "internal firewall" of curiosity and voice. We must sharpen a student's internal drive so they can master the algorithm, rather than be mastered by it.
+Banning phones can help students focus, but it doesn’t teach them how to manage distraction. Students need internal motivation and self-control whether a phone is present or not. The real task is helping them use phones to support learning, rather than letting phones shape how they think.
 
 ---
 
