@@ -302,7 +302,7 @@ Speaker Notes "This 2024 review in npj Science of Learning discusses Targeted Me
 # Who’s Awake When the Machine Is Wrong?
 **Automation is impressive; oversight is essential.**
 
-Hello. I’m Jeremy Ellis, and this is my TEDx talk.
+
 
 ---
 
