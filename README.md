@@ -135,14 +135,14 @@ Basic Slides
 
 
 
-# Who’s Awake When the Machine Is Wrong?
+# 1 Who’s Awake When the Machine Is Wrong?
 **Automation is impressive; oversight is essential.**
 
 
 
 ---
 
-## Someone Still Has to Know How to Fly.
+## 2 Someone Still Has to Know How to Fly.
 **Would you trust a pilot who’s never seen a cockpit?**
 
 Let me start with a simple question:  
@@ -158,7 +158,7 @@ The systems are powerful. The automation is impressive. But safety still depends
 
 ---
 
-## Why I’m Saying This Now.
+## 3 Why I’m Saying This Now.
 **Teaching coding stopped following a bell curve.**
 
 I’ve been teaching coding for 35 years. For the first 20, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually *use* core ideas.
@@ -180,7 +180,7 @@ The gap is no longer between fast and slow learners. It is between **learners** 
 
 ---
 
-## The Risk We Avoid Naming.
+## 4 The Risk We Avoid Naming.
 **When effort disappears, learning atrophies.**
 
 If we stop practicing basic operations—calculation, estimation, logic, persistence—we don’t just forget techniques. We lose internal reference points.
@@ -191,7 +191,7 @@ Convenience feels like progress, but it has a cost. This is not about working ha
 
 ---
 
-## Our Internal Quality Control.
+## 5 Our Internal Quality Control.
 **Critical thinking is not a mindset. It is circuitry.**
 
 This is not a metaphor. It is neuroscience.
@@ -200,7 +200,7 @@ Two brain systems matter deeply in the age of AI.
 
 ---
 
-## The Brain’s Error Signal.
+## 6 The Brain’s Error Signal.
 **The ACC: your biological alarm bell.**
 
 The anterior cingulate cortex (ACC) activates when an answer conflicts with expectations. It does not shout. It whispers. It produces doubt—the feeling that something doesn’t quite fit.
@@ -211,7 +211,7 @@ That signal only develops if we regularly do the work ourselves. No effort, no a
 
 ---
 
-## The Brain’s Persistence Engine.
+## 7 The Brain’s Persistence Engine.
 **The aMCC: effort, grit, and follow-through.**
 
 The anterior mid-cingulate cortex (aMCC) is associated with sustained effort and persistence. It strengthens when we do difficult things we would rather avoid. It weakens when we consistently choose the easiest path.
@@ -222,7 +222,7 @@ When students rely on frictionless answers instead of effortful thinking, these 
 
 ---
 
-## Fluent Does Not Mean True.
+## 8 Fluent Does Not Mean True.
 **AI generates probabilities, not facts.**
 
 AI systems do not check truth. They generate likely sequences of words.
@@ -237,7 +237,7 @@ Why? No baseline. No internal alarm. No correction.
 
 ---
 
-## This Pattern Is Not New.
+## 9 This Pattern Is Not New.
 **We didn’t just lose arithmetic. We lost number sense.**
 
 Calculators freed us for higher-level math, and that part worked. But many students lost estimation and magnitude—the gut feeling that says, *“That answer can’t be right.”*
@@ -251,7 +251,7 @@ AI repeats this pattern faster and earlier—and not just in math. It operates i
 
 ---
 
-## Technology Widens the Gap.
+## 10 Technology Widens the Gap.
 **AI amplifies foundations; it does not create them.**
 
 Some students thrive with AI. They build faster and explore deeper. They share one trait: strong foundations.
@@ -262,7 +262,7 @@ The danger is not replacement. The danger is divergence—a widening gap driven 
 
 ---
 
-## The New Core Skills.
+## 11 The New Core Skills.
 **We practice what the machine does so we can detect failure.**
 
 Reasoning and persistence allow students to detect contradictions.  
@@ -274,14 +274,14 @@ We practice what the machine does so we know when it fails.
 
 ---
 
-## Three Concrete Interventions.
+## 12 Three Concrete Interventions.
 **From principle to practice.**
 
 This is not abstract. These actions work.
 
 ---
 
-## For Teachers: Friction Before Freedom.
+## 13 For Teachers: Friction Before Freedom.
 **The LED / LEAD model.**
 
 **LED — Low-tech, Effort-Driven**  
@@ -300,7 +300,7 @@ Effort is non-negotiable. Curiosity is rewarded.
 
 ---
 
-## For Parents: Protect the Pre-Sleep Brain.
+## 14 For Parents: Protect the Pre-Sleep Brain.
 **What happens before sleep determines what sticks.**
 
 Before sleep, the brain reviews the day and consolidates learning. Too often, this window is filled with scrolling.
@@ -314,7 +314,7 @@ Review before sleep strengthens memory and intuition.
 
 ---
 
-## For Administrators: Make Skills a Shared Outcome.
+## 15 For Administrators: Make Skills a Shared Outcome.
 **Auditing AI is a system-wide responsibility.**
 
 When students struggle in Grade 10, we blame Grade 10 teachers. But the gap was built over years.
@@ -332,7 +332,7 @@ If we want students who can audit AI, we must measure and train that ability hon
 
 ---
 
-## Conclusion: What the Future Requires.
+## 16 Conclusion: What the Future Requires.
 **Not faster answers—better judgment.**
 
 The future does not need people who can outpace machines. It needs people who can recognize when machines are wrong.
