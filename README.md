@@ -72,6 +72,8 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 <img width="819" height="423" alt="image" src="https://github.com/user-attachments/assets/e69ac9a7-2450-41d1-aad9-2b7f24760db2" />
 
+<img width="819" height="423" alt="image" src="https://github.com/user-attachments/assets/7c150361-060a-4cbe-956c-6fdf0b0e598c"/>
+
 
 13. For Teachers: Friction Before Freedom. Use the LED or LEAD model to make effort non-negotiable.
 <img width="819" height="485" alt="image" src="https://github.com/user-attachments/assets/59ffe161-9062-450b-8039-c359719dbfba" />
