@@ -88,7 +88,7 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 <img width="1011" height="493" alt="image" src="https://github.com/user-attachments/assets/758e5390-d503-443d-baa8-b8e2290e7728" />
 
 
-16. Conclusion: What the Future Might Actually Require. The goal is not to survive the machine, but to remain the pilot of it.
+16. Conclusion: What the Future Might Actually Require. The goal is not to beat the machine. It is to remain attentive beside it.
 
 <img width="819" height="484" alt="image" src="https://github.com/user-attachments/assets/cccb646f-729a-4f7b-bd1b-c21670406c75" />
 
@@ -127,12 +127,11 @@ Basic Slides
 
 
 1. Who’s Awake When the Machine Is Wrong?
-
 Automation is impressive; oversight is essential.
 
+Hello I am Jeremy Ellis and this is my TedX
 
 2. Someone Still Has to Know How to Fly.
-
 Would you trust a pilot who’s never seen a cockpit?
 
 Let me start with a simple question: Would you get on a fully automated plane if no one on board knew how to fly? Not as a backup. Not in an emergency. Not even to notice when something feels wrong. That is the moment we are living in with AI. The systems are powerful. The automation is impressive. But the safety of the entire flight still depends on whether a human can recognize when the machine is drifting off course. Education is not about resisting technology. It is about making sure someone is awake and in the cockpit.
@@ -141,7 +140,8 @@ Let me start with a simple question: Would you get on a fully automated plane if
 
 
 3. Why I’m Saying This Now.
-
+3 decades of teaching coding has revealed a new kind of "cognitive decline.
+   
 
 I have been teaching coding for 35 years, and I’ve followed neural networks since long before they were mainstream. About ten years ago, I started noticing something unsettling. Students were producing better looking results, faster than ever before. And at the same time, their ability to explain why something worked was fading.
 
@@ -151,7 +151,6 @@ The outputs were improving. The understanding was eroding. And that erosion is n
 
 
 4. The Risk We Don’t Like to Name.
-
 When we outsource effort, we lose our internal compass.
 
 If we stop practicing the basic operations of thinking, calculation, logic, estimation, persistence, we don’t just forget techniques. We lose the internal reference points that tell us when something is wrong.
@@ -161,7 +160,6 @@ Convenience feels like progress, but it comes with a hidden cost. When effort di
 
 
 5. Our Internal Quality Control.
-
 Critical thinking isn't just a mindset, it's neural circuitry.
 
 
@@ -169,48 +167,49 @@ This is not a metaphor. It is neurology. Two brain systems matter enormously in 
 
 
 6. The Brain’s Error Signal.
-
 The ACC: Your biological "alarm bell" for when things feel wrong.
+
+
 The anterior cingulate cortex, or ACC, activates when something doesn’t feel right when an answer conflicts with expectations. It does not shout. It whispers. It is the source of doubt.
 
 
-7. The Brain’s Persistence Engine.
+8. The Brain’s Persistence Engine.
 
 The aMCC: The "grit muscle" that atrophies with convenience.
+
 The anterior mid-cingulate cortex, or aMCC, is tied to effort, grit, and follow-through. It strengthens when we do difficult things we would rather avoid. It weakens when we consistently choose the easiest path. Here is the educational consequence: When students rely on frictionless answers instead of effortful thinking, these systems are not engaged. They degrade. Convenience doesn’t just change behavior. It changes the brain.
 
 
 
 
 8. Fluent Does Not Mean True.
-
 AI doesn't give you facts; it gives you high-speed probabilities.
+
+
 AI systems are not truth engines. They are probability engines. They generate answers that sound right, not answers that are checked. In 2023, a lawyer submitted a legal brief generated with AI. It cited six court cases. Every one of them was fabricated. Convincing. Detailed. Entirely fictional. A first-year law student would have caught it. The lawyer did not. Why? No baseline. No internal alarm. No correction. This is the failure mode we are training for if we are not careful.
 
 
 
 9. This Pattern Is Not New.
-
-
 We didn’t just lose arithmetic to calculators. We lost the feeling of numbers.
+
 
 Calculators were introduced to free the mind for higher-level math, and that part worked. But along the way, many students lost estimation, magnitude, and number sense, the gut instinct that says, “That answer can’t be right.”
 
 AI is repeating this pattern, but faster, broader, and earlier in development. And unlike calculators, AI operates in language, reasoning, and judgment, the very places where our internal alarms are supposed to live.
 
 10. Technology Is Widening the Gap.
-
-
 AI doesn't create talent, it amplifies existing foundations.
+
+
 Some students thrive with AI. They build faster, explore further, and learn more deeply. They all share one thing: Strong foundations. AI did not create ability. It amplified it. The danger is not replacement. The danger is divergence. This is not a talent gap. It is a foundational skills gap.
 
 
 
 
-11. The New Core Skills.
+12. The New Core Skills.
+ We practice what the machine does so we can tell when it fails.
 
-
-We don’t practice foundational skills to compete with machines. We practice them so we can audit machine output.
 
 Reasoning and persistence allow students to detect contradictions and resist automation bias. Empathy and context allow them to recognize when a technically correct answer is humanly wrong. Language precision helps them notice when fluency hides shallow thinking. Ethical judgment lets them ask not just “Is this correct?” but “Is this responsible?”
 
@@ -220,40 +219,38 @@ We practice what the machine does so we know when it has failed.
 
 
 12. Three Concrete Interventions.
-
-
 Moving from philosophy to practice: Friction, Sleep, and Systems.
+
+
 This is not a philosophical problem. It is a practical one. Here are three actions that work.
 
 
 
-13. For Teachers: Friction Before Freedom.
-
-
+14. For Teachers: Friction Before Freedom.
 Use the LED/LEAD model to make effort non-negotiable.
+
+
 The LED or LEAD Framework LED: Low-Tech, Effort-Driven, Traditional Seat Work For every teacher, the basics for their course. The "Friction": Handwritten work, estimation, and retrieval practice. The Goal: Engaging the ACC and aMCC while learning the basics LEAD: Log-on, Explore, And Discover The "Freedom": Using AI to extend ideas, build projects, and scale output. The Goal: Using the machine to amplify a solid foundation. The teacher circulates and calibrates. The ratio tells you everything: Too few reach LEAD → LED was too hard Everyone reaches LEAD instantly → LED was too easy This keeps effort non-negotiable and curiosity rewarded.
 
 
 14. For Parents: Protect the Pre-Sleep Brain.
-
-
 What happens before the lights go out determines what sticks.
+
+
 Parents can use the same idea at home: consistent time on either fundamentals or a project, At home Led or Lead could be offline But there is something even more powerful. The moments before sleep. Just before sleeping, the brain reviews the day and decides what matters. Children and teenagers now fill this window with scrolling. For younger children, story time matters. Short, meaningful stories give the brain something real to process. For older students, conversation matters what was confusing, what didn’t make sense, what was interesting. Reviewing schoolwork before sleep is one of the easiest ways to strengthen learning. Sleep locks it in.
 
 
 
-15. For Administrators: Make Skills a Shared Outcome.
-
-
+16. For Administrators: Make Skills a Shared Outcome.
 Auditing AI is a school-wide responsibility, not a single grade's job.
+
+
 When students struggle in Grade 10, we blame the Grade 10 Math and English teachers! But the gap was built over years by a system. The solution must be systemic. Implement a "school-wide Grade 10 skills assessment". Not subject-based. Not owned by one department. A skills check taken early and compared late in the year. It measures what every subject depends on: estimation, reasoning, reading under pressure, basic arithmetic, and sustained problem-solving. Every teacher owns a piece: Elementary teacher build foundation,Math teachers build estimation, English teachers build comprehension, Science teachers build evidence and logic, Social studies teachers build source evaluation, Elective teachers build there special foundations 
 
 No blame. Shared responsibility. If we want students who can audit AI, we need systems that train and measure that ability honestly.
 
 
 16. Conclusion: What the Future Might Actually Require.
-
-
 The goal is not to beat the machine. It is to remain attentive beside it.
 
 The future does not need faster answers. It needs people who can recognize when an answer is wrong. If students can calculate, they can question. If they can reason, they can verify. If they can persist, they can stay engaged when the system becomes confident and incorrect.
