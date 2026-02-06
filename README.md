@@ -303,28 +303,48 @@ Effort is non-negotiable. Curiosity is rewarded.
 ## 14 For Parents: Protect the Pre-Sleep Brain.
 **What happens before sleep determines what sticks.**
 
-Before sleep, the brain reviews the day and consolidates learning. Too often, this window is filled with scrolling.
+Before sleep, the brain enters hypnagogia, a critical window where it reviews sustained effort to consolidate learning. Too often, this window is lost to scrolling.
 
 For younger children: stories.  
 For older students: conversation—what was confusing, what didn’t make sense.
 
-Review before sleep strengthens memory and intuition.
+Review the days lessons before sleep strengthens memory and intuition.
 
-[Carbone & Diekelmann, 2024](https://www.nature.com/articles/s41539-024-00244-8)
+[Walker, M. P., & Stickgold, R. (2006)](https://walkerlab.berkeley.edu/reprints/Walker&Stickgold_AnnRevPsych_2006.pdf)
 
 ---
 
 ## 15 For Administrators: Make Skills a Shared Outcome.
 **Auditing AI is a system-wide responsibility.**
 
-When students struggle in Grade 10, we blame Grade 10 teachers. But the gap was built over years.
+When students struggle in Grade 10, we blame the Grade 10 Math and English teachers!
+
+But the gap was built over years.
 
 Implement a school-wide skills audit—early and late in the year. Not subject-based. Skills-based.
 
-Estimation.  
-Reading under pressure.  
-Reasoning.  
+Estimation.
+Reading under pressure.
+Reasoning.
 Sustained problem-solving.
+
+
+
+Every teacher owns a piece of the human pilot:
+
+Elementary: Builds fluency and automaticity
+
+Middle School: Builds the "error signal"—questioning why things feel wrong.
+
+English: Builds deep comprehension.
+
+Math: Builds estimation and "sanity checks."
+
+Science: Builds evidence-based logic.
+
+Social Studies: Builds source evaluation.
+
+Electives: Build the foundations of specialized intuition.
 
 No blame. Shared ownership.
 
