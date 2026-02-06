@@ -233,7 +233,7 @@ A first-year law student would have caught it. The lawyer did not.
 
 Why? No baseline. No internal alarm. No correction.
 
-[Mata v. Avianca, Inc., 2023](https://www.courtlistener.com/docket/63107798/mata-v-avianca-inc/)
+[Mata v. Avianca, Inc., 2023](https://www.law.berkeley.edu/wp-content/uploads/2025/12/Mata-v-Avianca-Inc.pdf)
 
 ---
 
@@ -244,7 +244,7 @@ Calculators freed us for higher-level math, and that part worked. But many stude
 
 The Flynn Effect shows the same pattern at a larger scale. Some cognitive skills increased—especially visual processing and game-like problem solving. At the same time, overall IQ gains have stalled and reversed in several countries. The average masks divergence: small gains in some areas are hiding significant losses in foundational reasoning skills.
 
-[Flynn, 1987](https://doi.org/10.1037/0003-066X.42.3.273)  
+
 [Bratsberg & Rogeberg, 2018](https://www.pnas.org/doi/10.1073/pnas.1718793115)
 
 AI is accelerating this pattern. It affects not just math, but language, reasoning, and judgment—the very systems our internal alarms depend on.
