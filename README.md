@@ -196,7 +196,9 @@ Convenience feels like progress, but it has a cost. This is not about working ha
 
 This is not a metaphor. It is neuroscience.
 
-Two brain systems matter deeply in the age of AI.
+The Added Problem
+
+Schools that ban phones protect the focus required for foundations, but they create a clinical vacuum. Without the phone present, students must develop an "internal firewall" of curiosity and voice. We must sharpen a student's internal drive so they can master the algorithm, rather than be mastered by it.
 
 ---
 
@@ -286,13 +288,13 @@ This is not abstract. These actions work.
 ## 13 For Teachers: Friction Before Freedom.
 **The LED / LEAD model.**
 
-**LED — Low-tech, Effort-Driven**  
+**LED, Low-tech, Effort-Driven**  
 Handwriting, estimation, retrieval practice.  
 Goal: engage ACC and aMCC while foundations form.
 
-**LEAD — Log on, Explore, And Discover**  
-AI and tools used to extend, test, and build.  
-Goal: amplify solid understanding.
+**LEAD, High Level, Personal Persistence, Explore, And Discover**  
+Extend, test, and build.  
+Goal: amplify solid understanding, persoanl choice.
 
 The ratio tells you everything:  
 Too few reach LEAD → LED was too hard.  
