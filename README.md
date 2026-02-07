@@ -135,8 +135,8 @@ Basic Slides
 
 
 
-# 1 Who’s Awake When the Machine Is Wrong?
-**Automation is impressive; oversight is essential.**
+# 1 Why it's important to still do what the machine can do. 
+**Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.**
 
 
 
