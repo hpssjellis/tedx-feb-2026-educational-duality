@@ -33,7 +33,10 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 
 5. Our Internal Quality Control. Critical thinking isn't just a mindset—it's neural circuitry.
-<img width="819" height="425" alt="image" src="https://github.com/user-attachments/assets/358d13e2-81bc-482c-8716-8f71dec0b560" />
+
+
+<img width="1024" height="590" alt="image" src="https://github.com/user-attachments/assets/6ea844bb-c347-4ff6-b745-226e31e3ebe4" />
+
 
 
 
@@ -45,7 +48,8 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
 
 
-<img width="1024" height="590" alt="image" src="https://github.com/user-attachments/assets/89f9dea4-3a3c-4bc2-b3a0-31667d7bb71f" />
+<img width="819" height="411" alt="image" src="https://github.com/user-attachments/assets/04a30498-2553-4321-b448-d964d89e53fc" />
+
 
 
 
