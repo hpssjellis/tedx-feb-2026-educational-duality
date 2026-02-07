@@ -43,7 +43,10 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 
 
 7. The Brain’s Persistence Engine. The aMCC: The "grit muscle" that atrophies with convenience.
-<img width="819" height="411" alt="image" src="https://github.com/user-attachments/assets/837586c2-600c-498f-b94f-a5e8a03696d6" />
+
+
+<img width="1024" height="590" alt="image" src="https://github.com/user-attachments/assets/89f9dea4-3a3c-4bc2-b3a0-31667d7bb71f" />
+
 
 
 
