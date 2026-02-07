@@ -1,4 +1,4 @@
-# tedx-feb-2026-educational-duality
+# tedx-feb-2026-do- what-the-machine-can-do
 TedX Feb 13th, 2026 Educational Duality: Why it's important to still do what the machine can do.
 
 
@@ -148,9 +148,7 @@ Basic Slides
 Let me start with a simple question:  
 Would you board a fully automated plane if no one on board knew how to fly?
 
-Not as a backup.  
-Not in an emergency.  
-Not even to notice when something feels wrong.
+Not as a backup.  Not in an emergency.  Not even to notice when something feels wrong.
 
 That is the moment we are living in with AI.
 
@@ -161,11 +159,11 @@ The systems are powerful. The automation is impressive. But safety still depends
 ## 3 Why I’m Saying This Now.
 **Teaching coding stopped following a bell curve.**
 
-I’ve been teaching coding for 35 years. For the first 20, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually *use* core ideas.
+I’ve been teaching coding for 35 years. For the first 20, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually use core ideas.
 
 Then something changed.
 
-Two foundational concepts—**if statements** and **arrays**—became teachable to only about half the class. Not harder. Polarized. Some students grasped them in minutes and used them creatively. Others could repeat examples for weeks and still could not apply them independently.
+Two foundational concepts "if statements" and "arrays" became teachable to only about half the class. Not harder to teach but polarized. Some students grasped the concepts in minutes and used them creatively. Others could work on examples for weeks and still could not apply them independently.
 
 There was no bell curve anymore. Just two groups.
 
@@ -173,9 +171,9 @@ I blamed screen time. I was wrong. Students with strong foundational skills lear
 
 What I was seeing was not distraction. It was missing cognitive scaffolding.
 
-Now, with large language models, this split is widening. Students with foundations use AI to think faster and deeper. Students without them use AI to complete products without understanding.
+That was 10 years ago, now, with large language models, this split is widening. Students with foundations use AI to think faster and deeper. Students without them use AI to complete assignments without any understanding.
 
-The gap is no longer between fast and slow learners. It is between **learners** and **product completers**. And that gap is growing.
+The gap is no longer between fast and slow learners. It is between "learners" and "assignment finishers". And that gap is growing.
 
 
 ---
@@ -183,16 +181,16 @@ The gap is no longer between fast and slow learners. It is between **learners** 
 ## 4 The Risk We Avoid Naming.
 **When effort disappears, learning atrophies.**
 
-If we stop practicing basic operations—calculation, estimation, logic, persistence—we don’t just forget techniques. We lose internal reference points.
+If we stop practicing basic operations, such as: calculation, estimation, logic, persistence, we don’t just forget techniques. We lose internal reference points.
 
-Those reference points are what tell us, *“Something is wrong here.”*
+Those reference points are what tell us, "Something is wrong here."
 
 Convenience feels like progress, but it has a cost. This is not about working harder for its own sake. It is about staying in control when the machine is confident and wrong.
 
 ---
 
 ## 5 Our Internal Quality Control.
-**Critical thinking is not a mindset. It is circuitry.**
+**Critical thinking is not a mindset. It is neural circuitry.**
 
 This is not a metaphor. It is neuroscience.
 
@@ -205,7 +203,7 @@ Banning phones can help students focus, but it doesn’t teach them how to manag
 ## 6 The Brain’s Error Signal.
 **The ACC: your biological alarm bell.**
 
-The anterior cingulate cortex (ACC) activates when an answer conflicts with expectations. It does not shout. It whispers. It produces doubt—the feeling that something doesn’t quite fit.
+The anterior cingulate cortex (ACC) activates when an answer conflicts with expectations. It does not shout. It whispers. It produces doubt, the feeling that something doesn’t quite fit.
 
 That signal only develops if we regularly do the work ourselves. No effort, no alarm.
 
@@ -216,7 +214,7 @@ That signal only develops if we regularly do the work ourselves. No effort, no a
 ## 7 The Brain’s Persistence Engine.
 **The aMCC: effort, grit, and follow-through.**
 
-The anterior mid-cingulate cortex (aMCC) is associated with sustained effort and persistence. It strengthens when we do difficult things we would rather avoid. It weakens when we consistently choose the easiest path.
+The anterior mid-cingulate cortex (aMCC) is associated with sustained effort, will power and persistence. It strengthens when we do difficult things we would rather avoid. It weakens when we consistently choose the easiest path.
 
 When students rely on frictionless answers instead of effortful thinking, these systems are not engaged. Convenience doesn’t just change behavior. It changes the brain.
 
@@ -232,7 +230,6 @@ AI systems do not check truth. They generate likely sequences of words.
 In 2023, a lawyer submitted a legal brief generated by AI. It cited six court cases. Every one of them was fabricated. Convincing. Detailed. Entirely fictional.
 
 A first-year law student would have caught it. The lawyer did not.
-
 Why? No baseline. No internal alarm. No correction.
 
 [Mata v. Avianca, Inc., 2023](https://www.law.berkeley.edu/wp-content/uploads/2025/12/Mata-v-Avianca-Inc.pdf)
@@ -242,11 +239,11 @@ Why? No baseline. No internal alarm. No correction.
 ## 9 This Pattern Is Not New.
 **We didn’t just lose arithmetic. We lost number sense.**
 
-In the 1980s, calculators freed us for high-level math. That part worked, but we paid a price: we lost the "gut feeling" for estimation and magnitude—the internal alarm that says, “That answer can’t be right.”
+In the 1980s, calculators freed us for high-level math. That part worked, but we paid a price: we lost the "gut feeling" for estimation and magnitude, the internal alarm that says, “That answer can’t be right.”
 
-The Flynn Effect shows this same divergence at scale. While we gained "game-like" visual problem-solving, our foundational reasoning skills have stalled or reversed (Bratsberg & Rogeberg, 2018). We are trading deep cognitive intuition for surface-level speed.
+The Flynn Effect shows this same divergence at scale. While teenagers gained "game-like" visual problem-solving, our foundational reasoning skills have stalled or reversed. We are trading deep cognitive intuition for surface-level speed.
 
-AI is accelerating this trade-off. It doesn't just affect math; it targets language, logic, and judgment—the very systems our internal "pilot" needs to stay awake.
+AI is accelerating this trade-off. It doesn't just affect math; it targets language, logic, and judgment, the very systems our internal "pilot" needs to stay alert.
 
 
 [Bratsberg & Rogeberg, 2018](https://www.pnas.org/doi/10.1073/pnas.1718793115)
@@ -270,9 +267,9 @@ The danger is not replacement. The danger is divergence, a widening gap driven b
 **We practice what the machine does so we can detect failure.**
 
 Reasoning and persistence allow students to detect contradictions.  
-Context and empathy reveal when a technically correct answer is humanly wrong.  
+Context and empathy reveal when a correct response is humanly wrong.  
 Language precision exposes fluency without depth.  
-Ethical judgment asks not just *“Is this correct?”* but *“Is this responsible?”*
+Ethical judgment asks not just "Is this correct?" but “Is this responsible?”
 
 We practice what the machine does so we know when it fails.
 
@@ -288,8 +285,10 @@ This is not abstract. These actions work.
 ## 13 For Teachers: Friction Before Freedom.
 **The LED / LEAD model.**
 
+Teachers are welcome to try for short amounts of time:
+
 **LED, Low-tech, Effort-Driven**  
-Handwriting, estimation, retrieval practice.  
+Handwriting, math, estimation, retrieval practice.  
 Goal: engage ACC and aMCC while foundations form.
 
 **LEAD, High Level, Personal Persistence, Explore, And Discover**  
@@ -307,12 +306,12 @@ Effort is non-negotiable. Curiosity is rewarded.
 ## 14 For Parents: Protect the Pre-Sleep Brain.
 **What happens before sleep determines what sticks.**
 
-Before sleep, the brain enters hypnagogia, a critical window where it reviews sustained effort to consolidate learning. Too often, this window is lost to scrolling.
+Parents can do a home version of LED / LEAD but more important, before sleep, the brain enters hypnagogia, a critical window where it reviews sustained effort to consolidate learning. Too often, this window is lost to scrolling.
 
-For younger children: stories.  
-For older students: conversation—what was confusing, what didn’t make sense.
+For elementary children: bedtime stories.  
+For middle school students: conversation—what was confusing, what didn’t make sense, make a conncetion
 
-Review the days lessons before sleep strengthens memory and intuition.
+For High School Students: Review the days lessons before sleep, this strengthens memory and intuition.
 
 [Walker, M. P., & Stickgold, R. (2006)](https://walkerlab.berkeley.edu/reprints/Walker&Stickgold_AnnRevPsych_2006.pdf)
 
@@ -325,14 +324,12 @@ When students struggle in Grade 10, we blame the Grade 10 Math and English teach
 
 But the gap was built over years.
 
-Implement a school-wide skills audit—early and late in the year. Not subject-based. Skills-based.
+Implement a school-wide grade 10 skills audit, early and late in the year. Not subject-based. Skills-based.
 
 Estimation.
 Reading under pressure.
 Reasoning.
 Sustained problem-solving.
-
-
 
 Every teacher owns a piece of the human pilot:
 
@@ -365,7 +362,7 @@ If students can calculate, they can question.
 If they can reason, they can verify.  
 If they can persist, they can stay engaged when the system is confident and incorrect.
 
-Education’s role is not to slow technology down. It is to ensure humans are strong enough to stand beside it.
+Education’s role is not to slow technology down, and never has been. It is to ensure humans are strong enough to stand beside AI.
 
 Someone must always be thinking in the cockpit.
 
@@ -375,6 +372,7 @@ Someone must always be thinking in the cockpit.
 
 
 
-Top of page
-By Jeremy Ellis Twitter Linkedin jeremy-ellis-4237a9bb Use at your own Risk!
+
+By Jeremy Ellis Twitter Linkedin jeremy-ellis-4237a9bb 
 Github Profile: https://github.com/hpssjellis
+Use this information at your own Risk!
