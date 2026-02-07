@@ -262,7 +262,7 @@ Some students thrive with AI. They build faster and explore deeper. They share o
 
 AI does not create ability. It amplifies it.
 
-The danger is not replacement. The danger is divergence—a widening gap driven by missing fundamentals.
+The danger is not replacement. The danger is divergence, a widening gap driven by missing fundamentals.
 
 ---
 
