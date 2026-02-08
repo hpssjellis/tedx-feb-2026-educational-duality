@@ -30,7 +30,7 @@ The systems are powerful. The automation is impressive. But safety still depends
 ## slide 3 Why I’m Saying This Now.
 **Teaching coding stopped following a bell curve.**
 
-I’ve been teaching coding for 35 years. For the first 20 years, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually use the core ideas. Then something changed.
+I’ve been teaching coding for over 30 years. For the first 20 years, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually use the core ideas. Then something changed.
 
 About 10 years ago, I found that the coding concepts "if statements" and "arrays" became unteachable to half the class. Not harder to teach, but polarized. Some students grasped the concepts in minutes and used them creatively. Others could work on examples for weeks and still could not apply them independently. There was no bell curve anymore. Just two groups.
 
