@@ -136,6 +136,10 @@ Ethical judgment asks not just "Is this correct?" but “Is this responsible?”
 ## slide 12 Three Concrete Interventions.
 **From principle to practice.**
 
+This is not a philosophical problem.  
+It is a practical one.
+
+Here are three actions we could do now.
 This is not abstract. These actions work.
 
 <img src="./public/a12-concrete.png" alt="a12-concrete.png" height="500">
