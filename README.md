@@ -275,6 +275,8 @@ Someone must always be thinking in the cockpit.
 
 
 
-By Jeremy Ellis Twitter Linkedin jeremy-ellis-4237a9bb 
-Github Profile: https://github.com/hpssjellis
+By Jeremy Ellis Twitter Linkedin <a href="jeremy-ellis-4237a9bb">jeremy-ellis-4237a9bb</a>
+
+Github Profile: <a href="https://github.com/hpssjellis">hpssjellis</a>
+
 Use this information at your own Risk!
