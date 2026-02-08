@@ -181,15 +181,22 @@ For elementary children: bedtime stories. For middle school students: conversati
 When students struggle in Grade 10, we blame the Grade 10 Math and English teachers! But the gap was built over years. Implement a school-wide grade 10 skills audit, early and late in the year. Not subject-based. Skills-based. Estimation. Reading under pressure. Reasoning. Sustained problem-solving.
 
 Every teacher owns a piece of the human pilot:
+
 Elementary: The Foundation. Hard-wiring the basics. If you can’t do the mental math or read the sentence fluently, you have no "spare" brain power to question the AI.
+
 Middle School: The "Gut" Feeling. Developing the internal alarm that goes off when an answer just looks wrong. It’s teaching kids to trust their instincts over the screen.
+
 Math: Reality Checks. Using quick estimation to catch the machine’s mistakes. It’s about being "close enough" in your head to know the AI is way off.
+
 English: Reading the Room. Finding the hidden meaning. AI can generate text, but it can’t understand intent, tone, or the "vibe" of a human conversation.
+
 Science: Real-World Testing. If the AI’s logic doesn’t work in a physical experiment, the AI is wrong. Science is the bridge between the screen and the dirt.
+
 Social Studies: Checking the Source. Asking "Who told you this and what do they want?" It’s about spotting bias before it becomes "truth."
-Electives: Hands-on Mastery. Skills that require a body—cooking, building, playing an instrument. You can't "prompt" your way to physical excellence.
-No blame. Shared ownership.
-If we want students who can audit AI, we must measure and train that ability honestly.
+
+Electives: Hands-on Mastery. Skills that require a body, such as cooking, building, playing an instrument. You can't "prompt" your way to physical excellence.
+
+No blame. Shared ownership. If we want students who can audit AI, we must measure and train that ability honestly.
 
 <img src="./public/a15-admin.png" alt="a15-admin.png" height="500">
 
