@@ -672,7 +672,9 @@ function myNext(){
 
 function closeAllDetails() {
     // Select all details elements on the page
-    const details = document.querySelectorAll('details');
+   const details = document.querySelectorAll('details');
+   document.getElementById('myCountMax').value = '10';  
+
 
     // Iterate through the NodeList and set the 'open' attribute to false
     details.forEach(detail => {
@@ -684,7 +686,9 @@ function closeAllDetails() {
 
 function openAllDetails() {
     // Select all details elements on the page
-    const details = document.querySelectorAll('details');
+   const details = document.querySelectorAll('details');
+   document.getElementById('myCountMax').value = '8,40,70,26,26,21,32,27,43,25,31,10,37,29,77,35';  
+
 
     // Iterate through the NodeList and set the 'open' attribute to true
     details.forEach(detail => {
