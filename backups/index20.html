@@ -1,0 +1,697 @@
+<h1>TedX Feb 13tn, 2026 Educational Duality</h1>
+
+
+This demo at <a href="https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html#top">https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html</a><br><br>
+
+
+The Github Repository is at <a href="https://github.com/hpssjellis/tedx-feb-2026-educational-duality/tree/main">https://github.com/hpssjellis/tedx-feb-2026-educational-duality/tree/main</a><br><br>
+
+
+Number of Slides: <input type="text" id="myCountLinks" size="6" value="16" >. List of seconds per slide: <input type="text" id="myCountMax" size="30" value="8,40,70,26,26,21,32,27,43,25,31,10,37,29,77,35" >   Can be a list of seconds example: 17, 20, 24, 20 The last number continues.
+ <br><br>
+ 
+
+Choose the language: <div id="google_translate_element"></div>
+
+<script type="text/javascript">
+document.myVoiceVar = 7 
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script><br>
+
+Then choose the Speaker: <Select id="mySelect01" onchange="{
+  document.getElementById('myVoiceNum').value =  this.value
+  document.getElementById('myNumberSpeak').click()
+}"></select><br>
+
+<div id="myDiv01">...</div>
+Voice number: <input id="myVoiceNum" type=number  style="width: 5em" value=3> 
+<input id="myNumberSpeak" type="button" value="Speak!" onclick="{  
+    let myV = responsiveVoice.getVoices()[document.getElementById('myVoiceNum').value].name
+    document.getElementById('myDiv01').innerHTML =  myV
+    responsiveVoice.speak(document.getElementById('myMain').innerText, myV, {pitch: 1, rate: 1, volume : 1});   
+}"> 
+
+
+
+
+
+
+<br><br>
+
+
+
+ 
+ 
+<h2>This section readers have programmed autoscroll </h2> 
+ 
+ <input type=button value="Mr. Ellis Reading in English" onclick="{ 
+   document.getElementById('myCountMax').value = '8,40,70,26,26,21,32,27,43,25,31,10,37,29,77,35';  
+   mySetup();                                             
+   myAudio01 = new Audio('The-Machine-ellis.m4a');
+   myAudio01.play(); 
+   carousel();                                                
+}">
+
+
+<!--
+
+ <input type=button value="Not Set" onclick="{ 
+   document.getElementById('myCountMax').value = '23,23,33,22,36,22,45,21,44,20,26,51,40,74,97,45';  
+   mySetup();                                             
+   myAudio01 = new Audio('not-set.mp3');
+   myAudio01.play(); 
+   carousel();                                                
+}">
+
+-->
+
+
+<br><br><br>
+QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html#top">website</a> <br>
+<img  height="500" alt="image" src="https://github.com/user-attachments/assets/6cf09f7a-1300-4aa8-a09b-f864862207ff" />
+<br><br><br>
+ 
+<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
+
+  
+
+
+<div id="myStick"  style=" position:sticky; top:25px; display:inline; ">
+ 
+ <input type=button value="Start-No-Sound" onclick="{
+   mySetup()
+   carousel();  
+}">
+ 
+ 
+ 
+  <input type=button value="Rewind" onclick="{
+   myIndex = 0;  
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+      } else {
+         myAudio01.pause();
+     }
+}">   
+
+ <input type=button value="-" onclick="{
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   myIndex -= 1;    
+   window.location.href='#'+myIndex;
+}">   
+  
+<input type=button value="+" onclick="{
+  clearInterval(myLooper);
+  clearInterval(myCounting);
+  myIndex += 1;  
+  window.location.href='#'+myIndex;
+}"> 
+  
+<input type=button value="Back" onclick="{
+   myIndex = myIndex - 2;    
+   if (myIndex <= 0){myIndex=0};                                      
+   myNext();
+}">   
+  
+<input type=button value="Next" onclick="{
+   myNext();
+}"> 
+ 
+    
+  
+ <input id="myPause" type=button value="Pause" onclick="{ 
+   clearInterval(myLooper);
+   clearInterval(myCounting);
+   if (this.value == 'Pause'){                                                     
+       this.value = 'Play / Pause'; 
+       if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+      } else {
+         myAudio01.pause();
+     }
+   } else {    
+    // myIndex -= 1; 
+    // myCountUp += 1;
+     //  carousel();   
+     resumeCarousel();
+     this.value = 'Pause';  
+     if (myAudio01.paused && myAudio01.currentTime > 0 && !myAudio01.ended) {
+         myAudio01.play();
+      }                                                    
+   }
+}"> 
+ 
+<input type=button value="Hide" onclick="{
+   document.getElementById('myStick').style.display = 'none';
+}"> 
+  <input type=button value="TOP" onclick="{ 
+   window.location.href='#top'; 
+}">  
+
+ 
+<button onclick="closeAllDetails()">Close All</button>
+<button onclick="openAllDetails()">Open All</button>
+  
+ </div>
+
+
+
+
+
+
+
+<div id="myMain">
+
+
+
+<h3><a name="1" href="#1">1</a> Why it's important to still do what the machine can do.</h3>
+<h2> </h2>
+
+<img height="500" alt="a01-awake.png" src="a01-awake.png" />
+ 
+
+<br><br><details open><summary><b>Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.</b></summary>
+
+</details>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="2" href="#2">2</a>  </h3>
+<h2>Someone Still Has to Know How to Fly. </h2>
+
+<img src="a02-cockpit.png" alt="a02-cockpit.png" height="500">
+ 
+ 
+ <br><br><details open><summary><b>Would you trust a pilot who’s never seen a cockpit?</b></summary>
+Let me start with a simple question:
+Would you board a fully automated plane if no one on board knew how to fly?
+
+Not as a backup.
+Not in an emergency.
+Not even to notice when something feels wrong.
+
+That is the moment we are living in with AI.
+
+The systems are powerful. The automation is impressive. But safety still depends on whether a human can recognize when the machine is drifting off course. Education is not about resisting technology. It is about ensuring someone is awake in the cockpit.
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="3" href="#3">3</a>  </h3>
+<h2>Why I’m Saying This Now.  </h2>
+
+ <img src="a03-foundation.png" alt="a03-foundation.png" height="500">
+
+ 
+<br><br><details open><summary><b>Teaching coding stopped following a bell curve.</b></summary>
+I’ve been teaching coding for 35 years. For the first 20, learning followed a familiar pattern. Most students struggled at first, then gradually improved. A few were fast, a few were slow, but nearly everyone could eventually use core ideas.
+
+Then something changed.
+
+Two foundational concepts—if statements and arrays—became teachable to only about half the class. Not harder. Polarized. Some students grasped them in minutes and used them creatively. Others could repeat examples for weeks and still could not apply them independently.
+
+There was no bell curve anymore. Just two groups.
+
+I blamed screen time. I was wrong. Students with strong foundational skills learned quickly regardless of screen time. Students without those foundations stalled, no matter how much instruction they received.
+
+What I was seeing was not distraction. It was missing cognitive scaffolding.
+
+Now, with large language models, this split is widening. Students with foundations use AI to think faster and deeper. Students without them use AI to complete products without understanding.
+
+The gap is no longer between fast and slow learners. It is between learners and product completers. And that gap is growing.
+</details>
+ 
+<br><br><br><br><br>
+<hr>
+
+<h3><a  name="4" href="#4">4</a>  </h3>
+<h2>The Risk We Don’t Like to Name. </h2>
+
+<img src="a04-effort.png" alt="a04-effort.png" height="500">
+ 
+<br><br><details open><summary><b>When effort disappears, learning atrophies.</b></summary>
+If we stop practicing basic operations—calculation, estimation, logic, persistence—we don’t just forget techniques. We lose internal reference points.
+
+Those reference points are what tell us, “Something is wrong here.”
+
+Convenience feels like progress, but it has a cost. This is not about working harder for its own sake. It is about staying in control when the machine is confident and wrong.
+</details>
+ 
+ <br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="5" href="#5">5</a>  </h3>
+<h2>Our Internal Quality Control. </h2>
+
+ 
+<img src="a05-quality.png" alt="a05-quality.png" height="500">
+ 
+
+<br><br><details open><summary><b>Critical thinking isn't just a mindset, it's neural circuitry.</b></summary>
+This is not a metaphor. It is neuroscience.
+
+Two brain systems matter deeply in the age of AI.
+ 
+The Added Problem:
+
+Banning phones can help students focus, but it doesn’t teach them how to manage distraction. 
+Students need internal motivation and self-control whether a phone is present or not. 
+The real task is helping them use phones to support learning, rather than letting phones shape how they think.
+
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="6" href="#6">6</a>  </h3>
+<h2>The Brain’s Error Signal.  </h2>
+
+<img src="a06-error-acc.png" alt="a06-error-acc.png" height="500">
+
+
+ 
+<br><br><details open><summary><b>The ACC: your biological alarm bell.</b></summary>
+The anterior cingulate cortex (ACC) activates when an answer conflicts with expectations. It does not shout. It whispers. It produces doubt—the feeling that something doesn’t quite fit.
+
+That signal only develops if we regularly do the work ourselves. No effort, no alarm.
+
+<a href="https://doi.org/10.1126/science.280.5364.747">Carter et al., 1998</a>
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="7" href="#7">7</a>  </h3>
+<h2>The Brain’s Persistence Engine. </h2>
+
+<img src="a07-persistence-amcc.png" alt="a07-persistence-amcc.png" height="500">
+
+ 
+<br><br><details open><summary><b>The aMCC: effort, grit, and follow-through.</b></summary>
+The anterior mid-cingulate cortex (aMCC) is associated with sustained effort and persistence. It strengthens when we do difficult things we would rather avoid. It weakens when we consistently choose the easiest path.
+
+When students rely on frictionless answers instead of effortful thinking, these systems are not engaged. Convenience doesn’t just change behavior. It changes the brain.
+
+<a href="https://doi.org/10.1016/j.cortex.2019.09.011">Touroutoglou et al., 2020</a>
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="8" href="#8">8</a>  </h3>
+<h2>Fluent Does Not Mean True. </h2>
+
+<img src="a08-true.png" alt="a08-true.png" height="500">
+ 
+<br><br><details open><summary><b>AI generates probabilities, not facts.</b></summary>
+AI systems do not check truth. They generate likely sequences of words.
+
+In 2023, a lawyer submitted a legal brief generated by AI. It cited six court cases. Every one of them was fabricated. Convincing. Detailed. Entirely fictional.
+
+A first-year law student would have caught it. The lawyer did not.
+
+Why? No baseline. No internal alarm. No correction.
+
+
+<a href="https://www.law.berkeley.edu/wp-content/uploads/2025/12/Mata-v-Avianca-Inc.pdf">Mata v. Avianca, Inc., 2023</a>
+</details>
+ 
+ <br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="9" href="#9">9</a>  </h3>
+<h2>This Pattern Is Not New. </h2>
+
+<img src="a09-math.png" alt="a09-math.png" height="500">
+ 
+<br><br><details open><summary><b>We didn’t just lose arithmetic. We lost number sense.</b></summary>
+
+
+In the 1980s, calculators freed us for high-level math. That part worked, but we paid a price: we lost the "gut feeling" for estimation and magnitude—the internal alarm that says, “That answer can’t be right.”
+
+The Flynn Effect shows this same divergence at scale. While we gained "game-like" visual problem-solving, our foundational reasoning skills have stalled or reversed (Bratsberg & Rogeberg, 2018). We are trading deep cognitive intuition for surface-level speed.
+
+AI is accelerating this trade-off. It doesn't just affect math; it targets language, logic, and judgment—the very systems our internal "pilot" needs to stay awake.
+ 
+<a href="https://www.pnas.org/doi/10.1073/pnas.1718793115">Flynn Effect  Bratsberg & Rogeberg, 2018</a>
+
+ 
+ 
+ <br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+<h3><a  name="10" href="#10">10</a>  </h3>
+<h2>Technology Widens the Gap. </h2>
+
+<img src="a10-gap.png" alt="a10-gap.png" height="500">
+ 
+<br><br><details open><summary><b>AI amplifies foundations; it does not create them.</b></summary>
+Some students thrive with AI. They build faster and explore deeper. They share one trait: strong foundations.
+
+AI does not create ability. It amplifies it.
+
+The danger is not replacement. The danger is divergence—a widening gap driven by missing fundamentals.
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="11" href="#11">11</a>  </h3>
+<h2>The New Core Skills.</h2>
+
+<img src="a11-core.png" alt="a11-core.png" height="500">
+ 
+<br><br><details open><summary><b>We practice what the machine does so we can detect failure.</b></summary>
+We don’t practice foundational skills to compete with machines. 
+ We practice them so we can audit machine output.
+
+Reasoning and persistence allow students to detect contradictions.
+Context and empathy reveal when a technically correct answer is humanly wrong.
+Language precision exposes fluency without depth.
+Ethical judgment asks not just “Is this correct?” but “Is this responsible?”
+
+We practice what the machine does so we know when it fails.
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="12" href="#12">12</a>  </h3>
+<h2>Three Concrete Interventions. </h2>
+
+
+<img src="a12-concrete.png" alt="a12-concrete.png" height="500">
+
+ 
+<br><br><details open><summary><b>Moving from philosophy to practice: Friction, Sleep, and Systems.</b></summary>
+This is not a philosophical problem.  
+It is a practical one.
+
+Here are three actions we could do now.
+</details> 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="13" href="#13">13</a>  </h3>
+<h2>For Teachers: Friction Before Freedom. </h2>
+
+<img src="a13-teacher.png" alt="a13-teacher.png" height="500">
+ 
+<br><br><details open><summary><b>The LED / LEAD model.</b></summary>
+
+LED: Low-tech, Effort-Driven
+Handwriting, estimation, retrieval practice.
+Goal: engage ACC and aMCC while foundations form.
+
+LEAD: Log on, Explore, And Discover
+AI and tools used to extend, test, and build.
+Goal: amplify solid understanding.
+
+The ratio tells you everything:
+Too few reach LEAD → LED was too hard.
+Everyone reaches LEAD instantly → LED was too easy.
+
+Effort is non-negotiable. Curiosity is rewarded.
+</details>
+
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+<h3><a  name="14" href="#14">14</a>  </h3>
+<h2>For Parents: Protect the Pre-Sleep Brain.  </h2>
+
+
+<img src="a14-parents.png" alt="a14-parents.png" height="500">
+
+ 
+<br><br><details open><summary><b>What happens before the lights go out determines what sticks.</b></summary>
+
+Before sleep, the brain enters hypnagogia, a critical window where it reviews sustained effort to consolidate learning. Too often, this window is lost to scrolling.
+
+For younger children: stories.  
+For older students: conversation—what was confusing, what didn’t make sense.
+
+Review the days lessons before sleep strengthens memory and intuition.
+
+
+<a href="https://walkerlab.berkeley.edu/reprints/Walker&Stickgold_AnnRevPsych_2006.pdf">Walker, M. P., & Stickgold, R. (2006)</a>
+</details>
+ 
+<br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h3><a  name="15" href="#15">15</a>  </h3>
+<h2>For Administrators: Make Skills a Shared Outcome. </h2>
+
+<img src="a15-admin.png" alt="a15-admin.png" height="500">
+ 
+<br><br><details open><summary><b>Auditing AI is a system-wide responsibility.</b></summary>
+When students struggle in Grade 10, we blame the Grade 10 Math and English teachers!
+
+But the gap was built over years.
+
+Implement a school-wide skills audit—early and late in the year. Not subject-based. Skills-based.
+
+Estimation.
+Reading under pressure.
+Reasoning.
+Sustained problem-solving.
+
+
+
+Every teacher owns a piece of the human pilot:
+
+Elementary: Builds Automaticity. Without the basics, there is no "Number Sense."
+
+Middle School: Builds the Error Signal. Teaching the "gut feeling" that a result is off-nominal.
+
+Math: Builds Sanity Checks. Using estimation to verify the machine's precision.
+
+English: Builds Subtext. Finding the human meaning between the lines.
+
+Science: Builds empirical evidence. Using the scientific method to test if the machine’s logic holds up in the real world.
+
+Social Studies: Builds Skepticism. Evaluating the source, not just the fluency.
+
+Electives: Build Physical Intuition. Mastery that requires a body, not just data.
+
+No blame. Shared ownership.
+
+If we want students who can audit AI, we must measure and train that ability honestly.
+ 
+</details>
+ 
+ 
+<br><br><br><br><br><br><br>
+<hr>
+
+
+ <h3><a  name="16" href="#16">16</a>  </h3>
+<h2>Conclusion: What the Future Requires. </h2>
+
+<img src="a16-future.png" alt="a16-future.png" height="500">
+
+ 
+<br><br><details open><summary><b>Not faster answers—better judgment.</b></summary>
+
+The future does not need people who can outpace machines. It needs people who can recognize when machines are wrong.
+
+If students can calculate, they can question.
+If they can reason, they can verify.
+If they can persist, they can stay engaged when the system is confident and incorrect.
+
+Education’s role is not to slow technology down. It is to ensure humans are strong enough to stand beside it.
+
+Someone must always be actively thinking in the cockpit.
+The system provides the data—but the pilot provides the judgment. 
+That is the job.
+</details>
+ 
+ 
+ <br><br><br><br><br><br><br><br><br>
+<hr>
+
+
+
+
+
+
+ <br><br><br><br><br><br><br><br><br>
+<hr>
+
+ 
+ 
+</div>
+<a href="#top">Top of page</a>
+
+<h2>By Jeremy Ellis Twitter <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">Linkedin jeremy-ellis-4237a9bb<a/> Use at your own Risk!</h2>
+<h2>Github Profile:  <a href="https://github.com/hpssjellis">https://github.com/hpssjellis<a/></h2>
+
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+ 
+
+
+
+
+  
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+  
+ 
+
+
+
+<script>
+ let myIndex = 1;
+ let myLooper = 0;
+ let myCounting = 0;
+ let myMainNum = '10,10';  
+ let myMainNum2 = '10,10'; 
+ let myMainNumLast = 20;
+ let myCountUp = 0;
+ let xSlide = 3;
+ let myAudio01 = new Audio();
+ document.body.style.backgroundColor = "skyblue";
+ 
+ 
+ let myArray = [1,2,3,13,14,16,18,2223,24,29,30,34,37,39,42,43,49,54,57]
+ let myVoiceObject = responsiveVoice.getVoices()
+ let myTemp = ''
+ for (let myLoop=0; myLoop < 50; myLoop++ ){
+    if ( myArray.includes(myLoop) ) {
+       myTemp += '<option value=\''+myLoop + '\'>' + myLoop + ' : ' + myVoiceObject[myLoop].name + '</option>'
+    }
+ }
+ document.getElementById('mySelect01').innerHTML =  myTemp
+ 
+ 
+
+ 
+function mySetup(){
+   document.getElementById('myStick').style.display = 'none';                                                 
+   xSlide  = document.getElementById('myCountLinks').value; 
+   myMainNum = document.getElementById('myCountMax').value.split(','); 
+   myMainNumLast = myMainNum[0]
+   console.log('myMainNum')
+   console.log(myMainNum)
+   console.log('myIndex, myMainNumLast, myMainNum[myIndex]')
+   myAudio01.pause();
+   myAudio01.currentTime = 0;  
+   myIndex = 0;  
+   clearInterval(myLooper);  
+   myCountUp = -1;
+} 
+ 
+function carousel() {
+  clearInterval(myCounting);
+  myCountUp = -1;
+  var i;
+  myIndex++;
+  if (myIndex > xSlide) {myIndex = xSlide};    
+  window.location.href='#'+myIndex;
+  if (Number.isInteger( parseInt(myMainNum[myIndex-1]) ) ) {
+     myMainNumLast = parseInt(myMainNum[myIndex-1]) 
+  }  
+  console.log(myIndex +', '+ myMainNumLast +', '+  myMainNum[myIndex-1])
+  myCountDown();
+  myCounting = setInterval(myCountDown, 1000);
+  myLooper = setTimeout(carousel, myMainNumLast*1000); 
+}
+
+
+ function resumeCarousel() {
+    // 1. Restart the countdown from the paused myCountUp value
+    myCounting = setInterval(myCountDown, 1000);
+    
+    // 2. Calculate the remaining time for the main carousel loop
+    // myMainNumLast is the total time. myCountUp is the time elapsed.
+    var remainingTime = (myMainNumLast - myCountUp) * 1000;
+    
+    // 3. Set the main timer to advance to the next slide when the remaining time runs out
+    myLooper = setTimeout(carousel, remainingTime);
+}
+  
+function myCountDown(){
+  myCountUp++;
+  if (myCountUp >= myMainNumLast ) {
+    myCountUp = myMainNumLast;                              
+  }
+  if (myIndex >= xSlide && myMainNumLast == myCountUp){ 
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ALL DONE <input type=button value="Show"  style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+     clearInterval(myCounting);             
+     clearInterval(myLooper);  
+  }
+  else {    
+     document.getElementById("myNumSlides").innerHTML = `&nbsp;&nbsp;&nbsp; Slide ${myIndex} of ${xSlide} slides. ${myMainNumLast-myCountUp} seconds remaining <input type=button value="Show" style="height:20px; " onclick="{document.getElementById('myStick').style.display = 'inline'; }"> `;
+  }
+}
+;
+
+ function myNext() {
+    // 1. Get total slide count and convert the string value to an integer
+    var slideCountString = document.getElementById('myCountLinks').value;
+    xSlide = parseInt(slideCountString.trim(), 10);
+    
+    // 2. Get the duration string (e.g., "10, 5, 8") and convert it to an array of integers
+    var durationString = document.getElementById('myCountMax').value;
+    
+    // Split the string by commas, then map each item to an integer
+    myMainNum = durationString.split(',')
+        .map(function(item) {
+            // .trim() removes any extra spaces around the number (e.g., " 10 ")
+            return parseInt(item.trim(), 10);
+        });
+        
+    // 3. Clear the existing main carousel timer to stop the previous loop
+    clearInterval(myLooper);
+    
+    // 4. Start the carousel loop with the new parameters
+    // Note: The carousel() function must handle initializing myIndex and clearing myCounting.
+    carousel();
+}
+
+ /*
+function myNext(){   
+  xSlide  = document.getElementById('myCountLinks').value; 
+  myMainNum = document.getElementById('myCountMax').value;                        
+  clearInterval(myLooper) ; 
+  carousel();  
+}  
+;
+ */
+
+
+
+function closeAllDetails() {
+    // Select all details elements on the page
+    const details = document.querySelectorAll('details');
+
+    // Iterate through the NodeList and set the 'open' attribute to false
+    details.forEach(detail => {
+        detail.open = false;
+    });
+}
+
+
+
+function openAllDetails() {
+    // Select all details elements on the page
+    const details = document.querySelectorAll('details');
+
+    // Iterate through the NodeList and set the 'open' attribute to true
+    details.forEach(detail => {
+        detail.open = true;
+    });
+}
+</script>
+
+ 
+ 
