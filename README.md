@@ -9,7 +9,9 @@ Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-du
 # 1 Why it's important to still do what the machine can do. 
 **Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.**
 
-![a01-awake](./public/a01-awake.png)
+
+<img src="./public/a01-awake.png" alt="a01-awake.png" height="500">
+
 
 ---
 
@@ -24,6 +26,8 @@ Not as a backup.  Not in an emergency.  Not even to notice when something feels 
 That is the moment we are living in with AI.
 
 The systems are powerful. The automation is impressive. But safety still depends on whether a human can recognize when the machine is drifting off course. Education is not about resisting technology. It is about ensuring someone is awake in the cockpit.
+
+<img src="./public/.png" alt=".png" height="500">
 
 ---
 
@@ -47,6 +51,7 @@ That was 10 years ago, now, with large language models, this split is widening. 
 The gap is no longer between fast and slow learners. It is between "learners" and "assignment finishers". And that gap is growing.
 
 
+<img src="./public/.png" alt=".png" height="500">
 ---
 
 ## 4 The Risk We Avoid Naming.
@@ -57,6 +62,8 @@ If we stop practicing basic operations, such as: calculation, estimation, logic,
 Those reference points are what tell us, "Something is wrong here."
 
 Convenience feels like progress, but it has a cost. This is not about working harder for its own sake. It is about staying in control when the machine is confident and wrong.
+
+<img src="./public/.png" alt=".png" height="500">
 
 ---
 
@@ -69,6 +76,8 @@ The Added Problem:
 
 Banning phones can help students focus, but it doesn’t teach them how to manage distraction. Students need internal motivation and self-control whether a phone is present or not. The real task is helping them use phones to support learning, rather than letting phones shape how they think.
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 6 The Brain’s Error Signal.
@@ -80,6 +89,8 @@ That signal only develops if we regularly do the work ourselves. No effort, no a
 
 [Carter et al., 1998](https://doi.org/10.1126/science.280.5364.747)
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 7 The Brain’s Persistence Engine.
@@ -90,6 +101,8 @@ The anterior mid-cingulate cortex (aMCC) is associated with sustained effort, wi
 When students rely on frictionless answers instead of effortful thinking, these systems are not engaged. Convenience doesn’t just change behavior. It changes the brain.
 
 [Touroutoglou et al., 2020](https://doi.org/10.1016/j.cortex.2019.09.011)
+
+<img src="./public/.png" alt=".png" height="500">
 
 ---
 
@@ -105,6 +118,8 @@ Why? No baseline. No internal alarm. No correction.
 
 [Mata v. Avianca, Inc., 2023](https://www.law.berkeley.edu/wp-content/uploads/2025/12/Mata-v-Avianca-Inc.pdf)
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 9 This Pattern Is Not New.
@@ -119,6 +134,8 @@ AI is accelerating this trade-off. It doesn't just affect math; it targets langu
 
 [Bratsberg & Rogeberg, 2018](https://www.pnas.org/doi/10.1073/pnas.1718793115)
 
+<img src="./public/.png" alt=".png" height="500">
+
 
 
 ---
@@ -132,6 +149,8 @@ AI does not create ability. It amplifies it.
 
 The danger is not replacement. The danger is divergence, a widening gap driven by missing fundamentals.
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 11 The New Core Skills.
@@ -144,12 +163,16 @@ Ethical judgment asks not just "Is this correct?" but “Is this responsible?”
 
 We practice what the machine does so we know when it fails.
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 12 Three Concrete Interventions.
 **From principle to practice.**
 
 This is not abstract. These actions work.
+
+<img src="./public/.png" alt=".png" height="500">
 
 ---
 
@@ -172,6 +195,8 @@ Everyone reaches LEAD instantly → LED was too easy.
 
 Effort is non-negotiable. Curiosity is rewarded.
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 14 For Parents: Protect the Pre-Sleep Brain.
@@ -185,6 +210,8 @@ For middle school students: conversation—what was confusing, what didn’t mak
 For High School Students: Review the days lessons before sleep, this strengthens memory and intuition.
 
 [Walker, M. P., & Stickgold, R. (2006)](https://walkerlab.berkeley.edu/reprints/Walker&Stickgold_AnnRevPsych_2006.pdf)
+
+<img src="./public/.png" alt=".png" height="500">
 
 ---
 
@@ -222,6 +249,8 @@ No blame. Shared ownership.
 
 If we want students who can audit AI, we must measure and train that ability honestly.
 
+<img src="./public/.png" alt=".png" height="500">
+
 ---
 
 ## 16 Conclusion: What the Future Requires.
@@ -236,6 +265,8 @@ If they can persist, they can stay engaged when the system is confident and inco
 Education’s role is not to slow technology down, and never has been. It is to ensure humans are strong enough to stand beside AI.
 
 Someone must always be thinking in the cockpit.
+
+<img src="./public/.png" alt=".png" height="500">
 
 
 
