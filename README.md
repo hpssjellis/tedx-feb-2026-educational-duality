@@ -340,19 +340,19 @@ Sustained problem-solving.
 
 Every teacher owns a piece of the human pilot:
 
-Elementary: Builds Automaticity. Without the basics, there is no "Number Sense."
+Elementary: The Foundation. Hard-wiring the basics. If you can’t do the mental math or read the sentence fluently, you have no "spare" brain power to question the AI.
 
-Middle School: Builds the Error Signal. Teaching the "gut feeling" that a result is off-nominal.
+Middle School: The "Gut" Feeling. Developing the internal alarm that goes off when an answer just looks wrong. It’s teaching kids to trust their instincts over the screen.
 
-Math: Builds Sanity Checks. Using estimation to verify the machine's precision.
+Math: Reality Checks. Using quick estimation to catch the machine’s mistakes. It’s about being "close enough" in your head to know the AI is way off.
 
-English: Builds Subtext. Finding the human meaning between the lines.
+English: Reading the Room. Finding the hidden meaning. AI can generate text, but it can’t understand intent, tone, or the "vibe" of a human conversation.
 
-Science: Builds empirical evidence. Using the scientific method to test if the machine’s logic holds up in the real world.
+Science: Real-World Testing. If the AI’s logic doesn’t work in a physical experiment, the AI is wrong. Science is the bridge between the screen and the dirt.
 
-Social Studies: Builds Skepticism. Evaluating the source, not just the fluency.
+Social Studies: Checking the Source. Asking "Who told you this and what do they want?" It’s about spotting bias before it becomes "truth."
 
-Electives: Build Physical Intuition. Mastery that requires a body, not just data.
+Electives: Hands-on Mastery. Skills that require a body—cooking, building, playing an instrument. You can't "prompt" your way to physical excellence.
 
 No blame. Shared ownership.
 
