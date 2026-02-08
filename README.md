@@ -170,11 +170,11 @@ I’ve been teaching coding for 35 years. For the first 20, learning followed a 
 
 Then something changed.
 
-Two foundational concepts "if statements" and "arrays" became teachable to only about half the class. Not harder to teach but polarized. Some students grasped the concepts in minutes and used them creatively. Others could work on examples for weeks and still could not apply them independently.
+About 10 years ago two coding foundational concepts "if statements" and "arrays" became teachable to only about half the class. Not harder to teach but polarized. Some students grasped the concepts in minutes and used them creatively. Others could work on examples for weeks and still could not apply them independently.
 
 There was no bell curve anymore. Just two groups.
 
-I blamed screen time. I was wrong. Students with strong foundational skills learned quickly regardless of screen time. Students without those foundations stalled, no matter how much instruction they received.
+I blamed screen time. I was wrong. It is more complex thatn just screen time. Students with strong foundational skills learned quickly regardless of screen time. Students without those foundations stalled, no matter how much instruction they received.
 
 What I was seeing was not distraction. It was missing cognitive scaffolding.
 
