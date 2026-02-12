@@ -5,6 +5,9 @@ TedX Feb 13th, 2026  Why it's important to still do what the machine can do.
 Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html)
 
 
+Full Powerpoint with presenters notes in the file called [TEDX-Ellis-Feb13-V15.pptx](TEDX-Ellis-Feb13-V15.pptx)   If the version has changed download the higher verison.
+
+
 
 ## slide 1 Why it's important to still do what the machine can do. 
 **Who’s Awake When the Machine Is Wrong? Automation is impressive; oversight is essential.**
