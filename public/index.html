@@ -154,6 +154,11 @@ QR code to here, this <a href="https://hpssjellis.github.io/tedx-feb-2026-educat
  
 <button onclick="closeAllDetails()">Close All</button>
 <button onclick="openAllDetails()">Open All</button>
+
+<button onclick="myToggleImageVersions()">Old/New Images</button>
+
+
+
   
  </div>
 
@@ -692,6 +697,18 @@ function closeAllDetails() {
     });
 }
 
+
+        async function myToggleImageVersions() {
+            const myAllImages = document.querySelectorAll('img');
+            myAllImages.forEach(myPic => {
+                let myCurrentSrc = myPic.getAttribute('src');
+                if (myCurrentSrc.includes('-old.png')) {
+                    myPic.src = myCurrentSrc.replace('-old.png', '.png');
+                } else {
+                    myPic.src = myCurrentSrc.replace('.png', '-old.png');
+                }
+            });
+        }
 
 
 function openAllDetails() {
