@@ -5,6 +5,9 @@ TedX Feb 13th, 2026  Why it's important to still do what the machine can do.
 Full Draft talk [here](https://hpssjellis.github.io/tedx-feb-2026-educational-duality/public/index.html)
 
 
+<img width="392" height="390" alt="image" src="https://github.com/user-attachments/assets/99d27622-8344-4f73-a671-1143985ee34b" />
+
+
 Full Powerpoint with presenters notes in the file called [TEDX-Ellis-Feb13-V15.pptx](TEDX-Ellis-Feb13-V15.pptx)   If the version has changed download the higher verison.
 
 
